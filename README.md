@@ -1,5 +1,7 @@
 maiOSX Snow Leopard is the world's most advanced tumblr "OS" designed in mind for file retention across your (modern) devices.
-Requirements as of Jan/26/2024 - Edge Browser on a 1920x1080 capable PC or Mac, iPhone 13 + up, Chrome on Android with a modern Snapdragon chip.
+Requirements as of Jan/26/2024
+- Edge Browser on a 1920x1080 capable PC or Mac with atleast 2GB of VRAM
+- iPhone 13 + up, Chrome on Android with a modern Snapdragon chip.
 
 This is it. The Big Release. Demo at [maiosx.com](https://maiosx.com)
 
