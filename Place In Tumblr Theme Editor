@@ -5533,7 +5533,7 @@ font-family: Spartan;
     position: fixed;
     opacity .55 ease-in-out 4s: ;
     background-color: #000000;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.0);
     color: #f6f6f6;
     bottom: 10px;
     padding-left: 14px;
@@ -5557,7 +5557,7 @@ font-family: Spartan;
     position: fixed;
     opacity .55 ease-in-out 4s: ;
     background-color: #000000;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.0);
     color: #f6f6f6;
     bottom: 10px;
     padding-left: 14px;
@@ -6110,7 +6110,7 @@ transition: ease-out 4s;position:relative;z-index:9999;
     position: fixed;
     opacity .55 ease-in-out 4s: ;
     background-color: #000000;
-    background-color: rgba(0,0,0,0.4) !important;
+    background-color: rgba(0,0,0,0.0) !important;
     color: #f6f6f6;
     bottom: 10px;
     padding-left: 14px;
@@ -6134,7 +6134,7 @@ transition: ease-out 4s;position:relative;z-index:9999;
     position: fixed;
     opacity .55 ease-in-out 4s: ;
     background-color: #000000;
-    background-color: rgba(0,0,0,0.4) !important;
+    background-color: rgba(0,0,0,0.0) !important;
     color: #f6f6f6;
     bottom: 10px;
     padding-left: 14px;
@@ -6163,7 +6163,9 @@ transition: ease-out 4s;position:relative;z-index:9999;
     width: 280px;
     padding-top: 10px;}
     
-       .about a {font-family:'Quicksand'; font-size:20px;color:white;text-align:center;}
+       .about a {font-family:'Quicksand'; font-size:20px;color:white;text-align:center; text-shadow: 0px 0px 10px magenta;}
+       
+        .about a:hover {font-family:'Quicksand'; font-size:20px;color:white;text-align:center; text-shadow: 0px 0px 10px #2D86F5;}
     .hellofade {display:none;}
 .romok {display:none;}
     .miniboxcontainer {
