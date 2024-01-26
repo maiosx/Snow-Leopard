@@ -1,0 +1,18 @@
+.follow-teaser {
+    opacity:0%;}
+
+.tmblr-iframe {display:none;margin-top:52px !important;}
+.tmblr-iframe--follow-teaser {display:none !important;}
+.tmblr-iframe--follow-teaser.open {display:none!important;}
+.post-content a.post_media_photo_anchor, .post-content figure[data-enable-lightbox="1"], .post a.post_media_photo_anchor, .post figure[data-enable-lightbox="1"], body a.post_media_photo_anchor, body figure[data-enable-lightbox="1"] {
+    cursor: pointer;
+    width: 226px;
+}
+.post-content div.npf_row .npf_col:only-child, .post-content div.npf_row figure.tmblr-full:only-child, .post div.npf_row .npf_col:only-child, .post div.npf_row figure.tmblr-full:only-child, body div.npf_row .npf_col:only-child, body div.npf_row figure.tmblr-full:only-child {
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 15px;
+}
+
+.community-label-popup__wrapper {display:none;}
+ .content-warning-cover {margin-top: -55px; !important}
