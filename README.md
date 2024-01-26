@@ -1,1 +1,1 @@
-maiOSX Snow Leopard is the world's most advanced tumblr "OS" designed in mind for file retention across all non-online Operating Systems. It was made using microsoft edge's browser engine also present in all browsers except firefox, safari and is the only app required to run.
+maiOSX Snow Leopard is the world's most advanced tumblr "OS" designed in mind for file retention across all non-online Operating Systems. It was made using microsoft edge's browser engine also present in all browsers except firefox and safari and is the only app required to run.
