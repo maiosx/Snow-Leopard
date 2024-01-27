@@ -177,8 +177,9 @@
         <meta name="if:Show Search Box" content=""> 
         <meta name="if:Logo2" content="">
         <meta name="if:ShowTitle" content="1">
+          <meta name="if:ShowGreetingTitle" content="1">
         <meta name="if:ShowDescription" content="">
-        <meta name="if:ShowGreeting" content="1">
+        <meta name="if:ShowGreeting" content="0">
         <meta name="if:CompactPosts" content="">
         <meta name="if:Index Photo Captions" content="0">
         <meta name="if:Index Video Captions" content="1">
@@ -13676,7 +13677,7 @@ and it is currently  <div class="datetime">
               <a href="https://www.pinterest.com/maiOSX/2023/"  onclick="window.open('https://www.pinterest.com/maiOSX/2023/', 
                          'newwindow23', 
                          'width=917,height=832'); 
-              return false;">📅📌 2023 Pins</a>
+              return false;">📅📌 Pins</a>
                 <a href="https://steamcommunity.com/id/gtavii/"  onclick="window.open('https://steamcommunity.com/id/gtavii/', 
                          'newwindow23', 
                          'width=917,height=832'); 
@@ -14748,12 +14749,12 @@ id="youtube-audio">
     if (hrs < 5) 
         greet = 'Its sleepy hours, what are you doing up?';  
     else if (hrs >= 5 && hrs <= 12)
-        greet = 'Good Afternoon {block:IfShowTitle}{Title}{/block:IfShowTitle}';
+        greet = 'Good Afternoon {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
     else if (hrs >= 12 && hrs <= 17)
-        greet = 'Good Evening {block:IfShowTitle}{Title}{/block:IfShowTitle}';
+        greet = 'Good Evening {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 17 && hrs <= 24)
-        greet = 'Goodnight {block:IfShowTitle}{Title}{/block:IfShowTitle}';
+        greet = 'Goodnight {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 22 && hrs <= 24)
         greet = 'Still Awake?';
@@ -15464,8 +15465,14 @@ Your browser does not support inline frames or is currently configured not to di
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/mery__S2_{/block:IfDockDefaultsOn}', 'newwindow14', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/rR2bIgc.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
 </div>  
 
-  
-                       
+<div id="icon15" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://drive.google.com/drive/u/0/home{/block:IfDockDefaultsOn}', 'newwindow14', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://logodownload.org/wp-content/uploads/2020/04/google-drive-logo-0-1.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
+</div>    
+
+
+<div id="icon16" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://music.apple.com{/block:IfDockDefaultsOn}', 'newwindow14', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://cdn.jim-nielsen.com/ios/512/apple-music-2020-09-25.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
+</div>              
                            
                            
                            
