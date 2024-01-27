@@ -14749,12 +14749,12 @@ id="youtube-audio">
     if (hrs < 5) 
         greet = 'Its sleepy hours, what are you doing up?';  
     else if (hrs >= 5 && hrs <= 12)
-        greet = 'Good Afternoon {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Good Morning {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
     else if (hrs >= 12 && hrs <= 17)
-        greet = 'Good Evening {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Good Afternoon {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 17 && hrs <= 24)
-        greet = 'Goodnight {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Good Evening {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 22 && hrs <= 24)
         greet = 'Still Awake?';
