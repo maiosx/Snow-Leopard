@@ -12906,7 +12906,7 @@ document.addEventListener('click', function (event) {
             {/block:IfShowDescription}
            
 
-<div id="mediumsplashtext" class="mediumsplashtext">Bitcoin bitcoin </div>
+<div id="mediumsplashtext" class="mediumsplashtext">It is currently </div>
 
         </div> 
         
@@ -12929,7 +12929,7 @@ document.addEventListener('click', function (event) {
         
 </div>
   <div id="bottomtxt" class="bottomtxt">  
-Bitcoin bitcoin  <div class="datetime">
+And the time is  <div class="datetime">
       <div class="date">
         <span id="dayname">Day</span>,
         <span id="month">Month</span>
@@ -14747,17 +14747,17 @@ id="youtube-audio">
 
     var greet;    
     if (hrs < 5) 
-        greet = 'Bitcoin bitcoin?';  
+        greet = 'What are you doing up still, silly?';  
     else if (hrs >= 5 && hrs <= 12)
-        greet = 'Bitcoin {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Good Morning {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
     else if (hrs >= 12 && hrs <= 17)
-        greet = 'Bitcoin {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Good Afternoon {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 17 && hrs <= 24)
-        greet = 'Bitcoin {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Good Evening {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 22 && hrs <= 24)
-        greet = 'Bitcoin?';
+        greet = 'Goodnight';
         
  
     document.getElementById('lblGreetings').innerHTML =
@@ -15405,87 +15405,93 @@ Your browser does not support inline frames or is currently configured not to di
 </div>
 
 
-<div id="icon17" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.tumblr.com/customize/{/block:IfDockDefaultsOn}', 'newwindow17', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/R.fee005b3ec2813be60780f297ba05868?rik=p7U1s0x%2b5ymAQg&riu=http%3a%2f%2fwww.newdesignfile.com%2fpostpic%2f2011%2f07%2fmac-system-preferences-icon_88822.png&ehk=yguwsmf1b%2bjE02GAIcEvoYtM7YBj1fhNyeQYSci1AQQ%3d&risl=&pid=ImgRaw&r=0{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
-</div>   
-
-
-<div id="icon18" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.perplexity.ai/{/block:IfDockDefaultsOn}', 'newwindow18', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.kFNcaIFn-0DomaI3QdG84QHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
-</div>   
-
 <div id="icon2" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com{/block:IfDockDefaultsOn}', 'newwindow2', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://media.giphy.com/media/LqCEcO42w8F2n1fZ7S/giphy.gif{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL2Image}{block:IfDockDefaultsOff}">️</a> 
-</div>
-         
-         
-         
-<div id="icon3" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL3}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL3}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.x.com{/block:IfDockDefaultsOn}', 'newwindow3', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/Qpit3O3.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL3Image}{block:IfDockDefaultsOff}">️</a> 
-</div>  
-
-                     
-<div id="icon4" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.spotify.com{/block:IfDockDefaultsOn}', 'newwindow4', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/3cFxFXf.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL4Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.tumblr.com/customize/{/block:IfDockDefaultsOn}', 'newwindow2', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/R.fee005b3ec2813be60780f297ba05868?rik=p7U1s0x%2b5ymAQg&riu=http%3a%2f%2fwww.newdesignfile.com%2fpostpic%2f2011%2f07%2fmac-system-preferences-icon_88822.png&ehk=yguwsmf1b%2bjE02GAIcEvoYtM7YBj1fhNyeQYSci1AQQ%3d&risl=&pid=ImgRaw&r=0{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL2Image}{block:IfDockDefaultsOff}">️</a> 
 </div>   
-           
-                     
+
+
+<div id="icon3" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL1}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL3}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.perplexity.ai/{/block:IfDockDefaultsOn}', 'newwindow3', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.kFNcaIFn-0DomaI3QdG84QHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL3Image}{block:IfDockDefaultsOff}">️</a> 
+</div>   
+
+<div id="icon4" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com{/block:IfDockDefaultsOn}', 'newwindow4', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://media.giphy.com/media/LqCEcO42w8F2n1fZ7S/giphy.gif{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL4Image}{block:IfDockDefaultsOff}">️</a> 
+</div>
+         
+         
+         
 <div id="icon5" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL5}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL5}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.canva.com{/block:IfDockDefaultsOn}', 'newwindow5', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/C1zMX5E.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL5Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL5}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL5}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.x.com{/block:IfDockDefaultsOn}', 'newwindow5', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/Qpit3O3.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL5Image}{block:IfDockDefaultsOff}">️</a> 
 </div>  
-                     
+
 <div id="icon6" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL6}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL6}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.pinterest.com{/block:IfDockDefaultsOn}', 'newwindow6', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/6koBQgj.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL6Image}{block:IfDockDefaultsOff}">️</a> 
-</div>  
-                      
-                     
-<div id="icon7" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL7}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL7}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com/channel/UC9GtSLeksfK4yuJ_g1lgQbg{/block:IfDockDefaultsOn}', 'newwindow7', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/DHmPaNh.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL7Image}{block:IfDockDefaultsOff}">️</a> 
-</div>  
-
-<div id="icon8" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL8}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL8}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/PicturesFoIder{/block:IfDockDefaultsOn}', 'newwindow8', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/NQltkjZ.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL8Image}{block:IfDockDefaultsOff}">️</a> 
-</div>  
-                      
-<div id="icon9" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL9}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL9}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.twitch.tv{/block:IfDockDefaultsOn}', 'newwindow9', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/FwIrPvn.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL9Image}{block:IfDockDefaultsOff}">️</a> 
-</div>                       
-        
-<div id="icon10" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL10}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL10}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.twitter.com/archillect{/block:IfDockDefaultsOn}', 'newwindow10', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/NonUcey.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL10Image}{block:IfDockDefaultsOff}">️</a> 
-</div>       
-
-<div id="icon11" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL11}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL11}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com/@DancingshanaVR{/block:IfDockDefaultsOn}', 'newwindow11', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://static-cdn.jtvnw.net/jtv_user_pictures/f1a11d37-408d-42aa-ad74-0c336a5cd1ec-profile_image-300x300.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL11Image}{block:IfDockDefaultsOff}">️</a> 
-</div>
-
-
-<div id="icon12" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/miniarchillect{/block:IfDockDefaultsOn}', 'newwindow12', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/MLarPq9.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL12Image}{block:IfDockDefaultsOff}">️</a> 
-</div>
-         
-         
-         
-<div id="icon13" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com/@SakuraMiko{/block:IfDockDefaultsOn}', 'newwindow13', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/5AwKOCB.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL13Image}{block:IfDockDefaultsOff}">️</a> 
-</div>  
-
-<div id="icon14" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/mery__S2_{/block:IfDockDefaultsOn}', 'newwindow14', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/rR2bIgc.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
-</div>  
-
-<div id="icon15" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://drive.google.com/drive/u/0/home{/block:IfDockDefaultsOn}', 'newwindow15', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://logodownload.org/wp-content/uploads/2020/04/google-drive-logo-0-1.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL6}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL6}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://music.apple.com{/block:IfDockDefaultsOn}', 'newwindow6', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://cdn.jim-nielsen.com/ios/512/apple-music-2020-09-25.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL6Image}{block:IfDockDefaultsOff}">️</a> 
 </div>    
 
+                     
+<div id="icon7" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL7}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL7}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.canva.com{/block:IfDockDefaultsOn}', 'newwindow7', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/C1zMX5E.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL7Image}{block:IfDockDefaultsOff}">️</a> 
+</div>  
+                     
+<div id="icon8" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL8}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL8}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.pinterest.com{/block:IfDockDefaultsOn}', 'newwindow8', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/6koBQgj.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL8Image}{block:IfDockDefaultsOff}">️</a> 
+</div>  
+                      
+                     
+<div id="icon9" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL9}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL9}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com/channel/UC9GtSLeksfK4yuJ_g1lgQbg{/block:IfDockDefaultsOn}', 'newwindow9', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/DHmPaNh.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL9Image}{block:IfDockDefaultsOff}">️</a> 
+</div>  
+
+<div id="icon10" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL10}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL10}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/PicturesFoIder{/block:IfDockDefaultsOn}', 'newwindow10', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/NQltkjZ.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL10Image}{block:IfDockDefaultsOff}">️</a> 
+</div>  
+                      
+<div id="icon11" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL11}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL11}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.twitch.tv{/block:IfDockDefaultsOn}', 'newwindow11', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/FwIrPvn.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL11Image}{block:IfDockDefaultsOff}">️</a> 
+</div>                       
+        
+<div id="icon12" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.twitter.com/archillect{/block:IfDockDefaultsOn}', 'newwindow12', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/NonUcey.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL12Image}{block:IfDockDefaultsOff}">️</a> 
+</div>       
+
+<div id="icon13" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com/@DancingshanaVR{/block:IfDockDefaultsOn}', 'newwindow13', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://static-cdn.jtvnw.net/jtv_user_pictures/f1a11d37-408d-42aa-ad74-0c336a5cd1ec-profile_image-300x300.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL13Image}{block:IfDockDefaultsOff}">️</a> 
+</div>
+
+
+<div id="icon14" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/miniarchillect{/block:IfDockDefaultsOn}', 'newwindow14', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/MLarPq9.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
+</div>
+         
+         
+         
+<div id="icon15" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL15}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL15}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com/@SakuraMiko{/block:IfDockDefaultsOn}', 'newwindow15', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/5AwKOCB.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL15Image}{block:IfDockDefaultsOff}">️</a> 
+</div>  
 
 <div id="icon16" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://music.apple.com{/block:IfDockDefaultsOn}', 'newwindow16', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://cdn.jim-nielsen.com/ios/512/apple-music-2020-09-25.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL16}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL16}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/mery__S2_{/block:IfDockDefaultsOn}', 'newwindow16', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/rR2bIgc.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL16Image}{block:IfDockDefaultsOff}">️</a> 
+</div>  
+
+<div id="icon17" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL17}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL17}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://icloud.com{/block:IfDockDefaultsOn}', 'newwindow17', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://iconape.com/wp-content/png_logo_vector/iconfinder-20.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL17Image}{block:IfDockDefaultsOff}">️</a> 
 </div>    
 
  
-                           
-                           
+   <div id="icon18" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL18}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL18}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.spotify.com{/block:IfDockDefaultsOn}', 'newwindow18', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/3cFxFXf.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL18Image}{block:IfDockDefaultsOff}">️</a> 
+</div>                           
+          
+          
+            
+   <div id="icon19" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL19}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL19}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.rockstargames.com{/block:IfDockDefaultsOn}', 'newwindow19', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://yt3.googleusercontent.com/ytc/AL5GRJUDsnzBTSQcVLk13pNZ1ELmXYG3eBC-0imo6jXL=s900-c-k-c0x00ffffff-no-rj{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL19Image}{block:IfDockDefaultsOff}">️</a> 
+</div>               
+
+   <div id="icon20" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL20}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL20}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://emulatoronline.com/{/block:IfDockDefaultsOn}', 'newwindow20', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://64.media.tumblr.com/ff69d4872ee2c30413f5668975bcb781/ee87c27a2bb1c89c-d0/s1280x1920/0c585e80acb9febf1384b6f67c8bb90de0197ad7.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL20Image}{block:IfDockDefaultsOff}">️</a> 
+</div>              
+                         
                            
                            
                            
