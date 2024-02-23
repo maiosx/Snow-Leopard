@@ -5,7 +5,7 @@
          //*  <script type="text/javascript"> 
    window.location.replace("http://twitter.com/archillect");  
    </script> *//
-               
+                
                                Mai OS X                    
                                                      
                         //for youtube effects toggle blur on main or rewrite the code so that posts are above the effect//  
@@ -12906,7 +12906,7 @@ document.addEventListener('click', function (event) {
             {/block:IfShowDescription}
            
 
-<div id="mediumsplashtext" class="mediumsplashtext">It looks like </div>
+<div id="mediumsplashtext" class="mediumsplashtext">Bitcoin bitcoin </div>
 
         </div> 
         
@@ -12929,13 +12929,13 @@ document.addEventListener('click', function (event) {
         
 </div>
   <div id="bottomtxt" class="bottomtxt">  
-and it is currently  <div class="datetime">
+Bitcoin bitcoin  <div class="datetime">
       <div class="date">
         <span id="dayname">Day</span>,
         <span id="month">Month</span>
         <span id="daynum">00</span>,
         <span id="year">Year</span>
-      </div>
+      </div> 
       <div class="time">
         <span id="hour">00</span>:
         <span id="minutes">00</span>:
@@ -13169,7 +13169,7 @@ and it is currently  <div class="datetime">
 
 <div id="me_icon" class="me_icon">
    	<a href="{text:YourMainURL}/search/{text:Your5SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/0c085b23ef5e294909a3786f5d877478/077fea18843021c3-64/s2048x3072/7370e058718b8a64987a668e9bf66f4a00666267.gif"
+         	<img alt="" src="https://media.tenor.com/7NOP4gAqMuIAAAAM/eru-chitanda-hyouka.gif"
          	width="52" height="52" style="border-radius:150px;">️</a></div>
 
 
@@ -13607,7 +13607,7 @@ and it is currently  <div class="datetime">
 
 <div id="me_icon" class="me_icon">
    	<a href="{text:YourMainURL}/search/{text:Your5SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/0c085b23ef5e294909a3786f5d877478/077fea18843021c3-64/s2048x3072/7370e058718b8a64987a668e9bf66f4a00666267.gif"
+         	<img alt="" src="https://media.tenor.com/7NOP4gAqMuIAAAAM/eru-chitanda-hyouka.gif"
          	width="52" height="52" style="border-radius:150px; ">️</a></div>
 
 
@@ -13826,7 +13826,7 @@ MMXVII-MMXXIII
 <a href="https://apps.apple.com/us/app-bundle/fizzy-water-bundle/id1601247237" style="color:white;">The Fizzy Water Bundle</a> ︱
 <a href="https://chrome.google.com/webstore/detail/animation-policy/ncigbofjfbodhkaffojakplpmnleeoee?hl=en" style="color:white;">Animation Policy</a> ︱
 <a href="https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk" style="color:white;">Webtime Tracker</a> ︱
-<a href="https://chrome.google.com/webstore/detail/manganum-1-productivity-n/jbfeongihppeenfnaofmdeikahaefljd?utm_source=manganum.app" style="color:white;">Manganum</a> ︱
+<a href="https://chromewebstore.google.com/detail/tumblr-%E2%80%93-post-to-tumblr/ffnhmkgpdmkajhomnckhabkfeakhcamm" style="color:white;">Tumblr Extension</a> ︱
 <a href="https://chrome.google.com/webstore/detail/new-address-bar/pjpbjboafkcbfpgiodfpfbehkjobdppe" style="color:white;">New Addressbar</a> ︱
 <a href="https://chrome.google.com/webstore/detail/leftside-back/gdcddfacdedphcamippdkojfngoakglg" style="color:white;">Leftside Back Button</a>
 </div>
@@ -14747,17 +14747,17 @@ id="youtube-audio">
 
     var greet;    
     if (hrs < 5) 
-        greet = 'Its sleepy hours, what are you doing up?';  
+        greet = 'Bitcoin bitcoin?';  
     else if (hrs >= 5 && hrs <= 12)
-        greet = 'Good Morning {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Bitcoin {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
     else if (hrs >= 12 && hrs <= 17)
-        greet = 'Good Afternoon {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Bitcoin {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 17 && hrs <= 24)
-        greet = 'Good Evening {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
+        greet = 'Bitcoin {block:IfShowGreetingTitle}{Title}{/block:IfShowGreetingTitle}';
         
     else if (hrs >= 22 && hrs <= 24)
-        greet = 'Still Awake?';
+        greet = 'Bitcoin?';
         
  
     document.getElementById('lblGreetings').innerHTML =
@@ -15411,7 +15411,7 @@ Your browser does not support inline frames or is currently configured not to di
 
 
 <div id="icon18" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.google.com{/block:IfDockDefaultsOn}', 'newwindow18', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://www.shareicon.net/data/512x512/2016/07/10/119930_google_512x512.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL14}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.perplexity.ai/{/block:IfDockDefaultsOn}', 'newwindow18', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.kFNcaIFn-0DomaI3QdG84QHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL14Image}{block:IfDockDefaultsOff}">️</a> 
 </div>   
 
 <div id="icon2" class="icon">
