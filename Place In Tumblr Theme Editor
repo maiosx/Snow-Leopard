@@ -6,7 +6,7 @@
    window.location.replace("http://twitter.com/archillect");  
    </script> *//
                 
-                               Mai OS X                    
+                    Mai OS X                    
                                                      
                         //for youtube effects toggle blur on main or rewrite the code so that posts are above the effect//  
         -->            
@@ -8107,7 +8107,7 @@ padding-top:29px !important;
 }
 
 .permalink-page .toggle5 {
-       margin-bottom:0px;
+       margin-bottom:0px; display:none;
 }
 
 .permalink-page .toggle5:hover {
@@ -8116,14 +8116,14 @@ padding-top:29px !important;
 
 
 .permalink-page .toggle6 {
-        margin-bottom:70px;
+        margin-bottom:70px; display:none;
 }
 .permalink-page .toggle6:hover {
           margin-bottom:0px;
 }
 
 .permalink-page .toggle7 {
-        margin-bottom:140px;
+        margin-bottom:140px; display:none;
 }
 .permalink-page .toggle7:hover {
          margin-bottom:0px;
@@ -8228,7 +8228,7 @@ animation:fadeIn 7s;
     margin-left: -1px;
     margin-top: -1px;
     min-width: 100%;
-       min-height: 962px;
+       min-height: 562px;
     display:inline; transition:ease 1s;
 }
 .permalink-page #posts {
