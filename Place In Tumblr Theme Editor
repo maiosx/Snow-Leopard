@@ -8259,9 +8259,9 @@ animation:fadeIn 7s;
 .permalink-page .post:hover {
     z-index: 7;
     background-color: rgba(0,0,0,0.75) !important;
-    min-width: 90%;
+    min-width: 100%;
     min-height: 100%;
-    max-width: 90%;
+    max-width: 100%;
     backdrop-filter: blur(7px);
     -webkit-backdrop-filter: blur(7px);
     width: 456px;
