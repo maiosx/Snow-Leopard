@@ -7605,7 +7605,7 @@ margin-top: -258px;
     height: 261px;
     width: 861px;
    /* background-image: url(https://i.imgur.com/64kyZYy.png); */
-    
+    margin-left:5px;
     line-height: 300%;
     margin-bottom: 1px;
     position: center;
@@ -7636,7 +7636,7 @@ margin-top: -258px;
     letter-spacing: 4px;
     background: rgba(0,0,0,0.0);
     border-radius: 150px;
-  
+  margin-left:5px;
     font-size: 20px;
     transform: scale(0.8); color:white;
     background-position: center;
@@ -13815,13 +13815,13 @@ And the time is  <div class="datetime">
     </div>
     <div id="bottomsearchnava" class="bottomsearchnava">
     <div id="bottomsearchnav" class="bottomsearchnav">
-MMXVII-MMXXIII
+MMXVII-MMXXIV
 
 <div id="reapersmenu" class="reapersmenu">
 <a href="https://undefineableai.tumblr.com" target="_blank">Wave OS</a>
 
 <a href="https://ufointhesky.tumblr.com/" target="_blank">Reaper OS</a>
-   <a href="https://maiosx.com" target="_blank">maiOSX</a>
+   <a href="https://maiosx.tumblr.com" target="_blank">maiOSX</a>
 </div><br>
 <a href="https://apps.apple.com/us/app-bundle/fizzy-water-bundle/id1601247237" style="color:white;">The Fizzy Water Bundle</a> ︱
 <a href="https://chrome.google.com/webstore/detail/animation-policy/ncigbofjfbodhkaffojakplpmnleeoee?hl=en" style="color:white;">Animation Policy</a> ︱
