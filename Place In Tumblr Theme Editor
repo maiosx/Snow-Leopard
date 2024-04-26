@@ -209,7 +209,7 @@
     height: 87px; padding-left: 15px;
     background: rgba(0,0,0,0.5);padding-right: 15px;
   margin-left: -30px;
-    position: relative;     box-shadow: 0px 2px 20px 1px rgb(66 245 230/ 50%);
+    position: relative;     box-shadow: 0px 2px 20px 1px rgb(0 0 0/ 50%);
     bottom: 140px !important;
     overflow-x: scroll; backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
     display: -webkit-inline-box;
@@ -222,7 +222,7 @@
     height: 87px; padding-left: 15px;
     background: rgba(0,0,0,0.4);
   margin-left: -30px;
-    position: relative;     box-shadow: 0px 2px 5px 1px rgb(66 245 230/ 50%);
+    position: relative;     box-shadow: 0px 2px 5px 1px rgb(0 0 230/ 50%);
     bottom: 140px !important; transition:200ms;
     overflow-x: scroll; backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
     display: -webkit-inline-box;
@@ -6713,7 +6713,7 @@ animation:fadeIn 7s;
     
 
 @media screen and (min-width:1245px) { 
-    
+     .hdockcontainer { opacity:100% !important;}
     .toggleS{opacity:100 !important;}
   
       .toggleS:hover{opacity:100 !important;}
@@ -12971,7 +12971,7 @@ And the time is  <div class="datetime">
  <div id="qa" class="qa" style="
     margin-top: 50px;
 ">
- <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://maiosx.com/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>, <a href="https://twitter.com/archillect">browse archillect</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://maiosx.com/search/movies"> see movie trailers</a>, <a href="https://maiosx.com/search/anime">look at anime art</a>, <a href="https://twitter.com/maiosxdev/lists">view the lists, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams</a>, <a href="https://www.discord.com/app">chat</a>,<a href="https://www.joyland.ai"> talk to AI</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.com/channels/1002292111942635562/"> diffuse</a>...</p>
+ <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://maiosx.com/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://maiosx.com/search/movies"> see movie trailers</a>, <a href="https://maiosx.com/search/anime">look at anime art</a>, <a href="https://twitter.com/maiosxdev/lists">view the lists, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams</a>, <a href="https://www.discord.com/app">chat</a>,<a href="https://www.joyland.ai"> talk to AI</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.com/channels/1002292111942635562/"> diffuse</a>...</p>
  </div>
  <div id="divx2" class="divx2">
     <img class="bottom" src="https://i.imgur.com/n5w6LdS.png">
@@ -15406,7 +15406,7 @@ Your browser does not support inline frames or is currently configured not to di
 
 
 <div id="icon2" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.tumblr.com/customize/{/block:IfDockDefaultsOn}', 'newwindow2', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/R.fee005b3ec2813be60780f297ba05868?rik=p7U1s0x%2b5ymAQg&riu=http%3a%2f%2fwww.newdesignfile.com%2fpostpic%2f2011%2f07%2fmac-system-preferences-icon_88822.png&ehk=yguwsmf1b%2bjE02GAIcEvoYtM7YBj1fhNyeQYSci1AQQ%3d&risl=&pid=ImgRaw&r=0{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL2Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL2}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.tumblr.com/customize/{/block:IfDockDefaultsOn}', 'newwindow2', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.bEndaypVoxlI-bcQbjB-WAAAAA?w=150&h=150&rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL2Image}{block:IfDockDefaultsOff}">️</a> 
 </div>   
 
 
@@ -15451,7 +15451,7 @@ Your browser does not support inline frames or is currently configured not to di
 </div>                       
         
 <div id="icon12" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.twitter.com/archillect{/block:IfDockDefaultsOn}', 'newwindow12', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/NonUcey.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL12Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL12}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.figma.com/{/block:IfDockDefaultsOn}', 'newwindow12', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://www.bing.com/th?id=OIP.Eb2ohNWi1fXpD6fKD4dA0AHaHa&w=150&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL12Image}{block:IfDockDefaultsOff}">️</a> 
 </div>       
 
 <div id="icon13" class="icon">
