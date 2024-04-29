@@ -18,8 +18,7 @@
         <script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
         <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
         <script src="https://static.tumblr.com/yxfeliq/hHwojmt8m/bctphotoset.min.js"></script>
-
-<script src="https://cdn.jsdelivr.net/gh/boscoxvi/npfphotosets/npfphotosets.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/boscoxvi/npfphotosets/npfphotosets.js"></script>
         <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400&display=swap" rel="stylesheet"> 
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
@@ -38,8 +37,8 @@
         <meta name="theme-color" content="{color:Header}">
         <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
         {block:Hidden}
-         <meta name="text:blogname" content=""/>
-         <meta name="text:blogname2" content=""/>
+        <meta name="text:blogname" content=""/>
+        <meta name="text:blogname2" content=""/>
         <meta name="text:YoutubeBackground" content=""/>
         <meta name="text:version" content=""/>
         <meta name="text:mversion" content=""/>
@@ -54,28 +53,28 @@
         <meta name="text:Logo2MarginTop" content=""/>
         <meta name="text:MainText" content=""/>
         <meta name="text:YourMainURL" content=""/>
-              <meta name="text:DOCKURL1" content=""/>
-               <meta name="text:DOCKURL2" content=""/>
-                <meta name="text:DOCKURL3" content=""/>
-                 <meta name="text:DOCKURL4" content=""/>
-                  <meta name="text:DOCKURL5" content=""/>
-                   <meta name="text:DOCKURL6" content=""/>
-                    <meta name="text:DOCKURL7" content=""/>
-                     <meta name="text:DOCKURL8" content=""/>
-                      <meta name="text:DOCKURL9" content=""/>
-                       <meta name="text:DOCKURL10" content=""/>
-                        <meta name="text:DOCKURL11" content=""/>
-                         <meta name="text:DOCKURL12" content=""/>
-                          <meta name="text:DOCKURL13" content=""/>
-                           <meta name="text:DOCKURL14" content=""/>
-                            <meta name="text:DOCKURL15" content=""/>
-                             <meta name="text:DOCKURL16" content=""/>
-                              <meta name="text:DOCKURL17" content=""/>
-                               <meta name="text:DOCKURL18" content=""/>
-                                <meta name="text:DOCKURL19" content=""/>
-                                 <meta name="text:DOCKURL20" content=""/>
-        <meta name="text:Your1SearchTag" content=""/>\
-       <meta name="description" content="maiOSX is the world's most advanced social operating system powered by tumblr.">
+	<meta name="text:DOCKURL1" content=""/>
+        <meta name="text:DOCKURL2" content=""/>
+        <meta name="text:DOCKURL3" content=""/>
+        <meta name="text:DOCKURL4" content=""/>
+        <meta name="text:DOCKURL5" content=""/>
+        <meta name="text:DOCKURL6" content=""/>
+        <meta name="text:DOCKURL7" content=""/>
+        <meta name="text:DOCKURL8" content=""/>
+        <meta name="text:DOCKURL9" content=""/>
+	<meta name="text:DOCKURL10" content=""/>
+        <meta name="text:DOCKURL11" content=""/>
+        <meta name="text:DOCKURL12" content=""/>
+        <meta name="text:DOCKURL13" content=""/>
+        <meta name="text:DOCKURL14" content=""/>
+        <meta name="text:DOCKURL15" content=""/>
+        <meta name="text:DOCKURL16" content=""/>
+        <meta name="text:DOCKURL17" content=""/>
+        <meta name="text:DOCKURL18" content=""/>
+        <meta name="text:DOCKURL19" content=""/>
+        <meta name="text:DOCKURL20" content=""/>
+	<meta name="text:Your1SearchTag" content=""/>\
+        <meta name="description" content="maiOSX is the world's most advanced social operating system powered by tumblr.">
         <meta name="text:About" content=""/>
         <meta name="text:Your2SearchTag" content=""/>
         <meta name="text:Your3SearchTag" content=""/>
@@ -89,29 +88,29 @@
         <meta name="image:Wallpaperoverlay" content="">
         <meta name="image:Logo" content="">
         <meta name="image:Logo2" content="">
-           <meta name="image:DOCKURL1Image" content="">
-           <meta name="image:DOCKURL2Image" content="">
-                 <meta name="image:DOCKURL3Image" content="">
-                    <meta name="image:DOCKURL4Image" content="">
-                       <meta name="image:DOCKURL5Image" content="">
-                          <meta name="image:DOCKURL6Image" content="">
-                             <meta name="image:DOCKURL7Image" content="">
-                               <meta name="image:DOCKURL8Image" content="">
-              <meta name="image:DOCKURL9Image" content="">
-                 <meta name="image:DOCKURL10Image" content="">
-                    <meta name="image:DOCKURL11Image" content="">
-                       <meta name="image:DOCKURL12Image" content="">
-                          <meta name="image:DOCKURL13Image" content="">
-                             <meta name="image:DOCKURL14Image" content="">
-                              <meta name="image:DOCKURL15Image" content="">
-                 <meta name="image:DOCKURL16Image" content="">
-                    <meta name="image:DOCKURL17Image" content="">
-                       <meta name="image:DOCKURL18Image" content="">
-                          <meta name="image:DOCKURL19Image" content="">
-                             <meta name="image:DOCKURL20Image" content="">
+        <meta name="image:DOCKURL1Image" content="">
+        <meta name="image:DOCKURL2Image" content="">
+        <meta name="image:DOCKURL3Image" content="">
+        <meta name="image:DOCKURL4Image" content="">
+        <meta name="image:DOCKURL5Image" content="">
+        <meta name="image:DOCKURL6Image" content="">
+        <meta name="image:DOCKURL7Image" content="">
+        <meta name="image:DOCKURL8Image" content="">
+        <meta name="image:DOCKURL9Image" content="">
+        <meta name="image:DOCKURL10Image" content="">
+        <meta name="image:DOCKURL11Image" content="">
+        <meta name="image:DOCKURL12Image" content="">
+        <meta name="image:DOCKURL13Image" content="">
+        <meta name="image:DOCKURL14Image" content="">
+        <meta name="image:DOCKURL15Image" content="">
+        <meta name="image:DOCKURL16Image" content="">
+        <meta name="image:DOCKURL17Image" content="">
+        <meta name="image:DOCKURL18Image" content="">
+        <meta name="image:DOCKURL19Image" content="">
+        <meta name="image:DOCKURL20Image" content="">
         <meta name="image:StatusBackground" content="">
         <meta name="if:ShowYouTubeBackground" content=""/>
-         <meta name="if:HideFeaturedGifs" content="1"/>
+        <meta name="if:HideFeaturedGifs" content="1"/>
         <meta name="if:ShowYouTubeEffect" content=""/>
         <meta name="if:DesktopPostBlur" content=""/>
         <meta name="if:DesktopPostShadow" content=""/>
@@ -126,7 +125,7 @@
        	<meta name="if:TurnOnBlurMobile" content="1">
        	<meta name="if:SidebarOnlyOneColorOn" content="">
        	<meta name="if:TurnOnBlurOnMain" content="1">
-       		<meta name="if:ShowSearchBox" content="1"/>
+       	<meta name="if:ShowSearchBox" content="1"/>
        	<meta name="if:TurnOnSidebarGradient" content="">
        	<meta name="if:ShowMainText" content=""/>
         <meta name="if:MainColorOn" content="">
@@ -177,7 +176,7 @@
         <meta name="if:Show Search Box" content=""> 
         <meta name="if:Logo2" content="">
         <meta name="if:ShowTitle" content="1">
-          <meta name="if:ShowGreetingTitle" content="1">
+        <meta name="if:ShowGreetingTitle" content="1">
         <meta name="if:ShowDescription" content="">
         <meta name="if:ShowGreeting" content="0">
         <meta name="if:CompactPosts" content="">
@@ -1537,7 +1536,7 @@ border-radius:15px;
 			 background-size: 400% 100%;
 			position: relative;     z-index: 1;
 			float: left; {text:Post Opacity});{/block:IfPostOpacity}
-			box-shadow: 20px 00px 300px 700px #000;
+		
 			overflow: hidden;
 			margin-bottom:15px;
 			{block:IfRoundedCorners}border-radius: 18px;{/block:IfRoundedCorners}
@@ -1997,7 +1996,7 @@ border:1px solid rgba(255,255,255,0.4); padding-bottom:13px;
     font-family: Quicksand;
     text-shadow: 0px 2px 4px rgb(0 0 0 / 90%);
     width: auto;
-    background: rgba(0,0,0,0.12);
+    background: rgba(0,0,0,0.5);
     z-index: 0;
     display: block;
     padding-top: 20px;
@@ -3762,7 +3761,7 @@ border-bottom-right-radius: 15px;
     position: fixed; 
     bottom: 0;
     transition: 4s;
-    display: inline-block;
+    display: none;
     height: 30px;
     margin-left: 10px;
 
@@ -5666,7 +5665,7 @@ font-family: Spartan;
     text-shadow: 0px 2px 4px rgba(0,0,0,0.9);
     padding: 20px;
   
-    height: 717px;
+    height: 674px;
     border-radius: 15px;
     margin-top: 12px;
     background-size: contain;
@@ -6598,7 +6597,7 @@ margin-right:5px;
        
        
       .post:hover {
-          box-shadow:0px 0px 20px 0px rgba(0,0,0,0.8);
+        
           border:1px solid rgba(255,255,255,0.85);
           background:rgba(0,0,0,0.9); transition:1s !important;
       }
