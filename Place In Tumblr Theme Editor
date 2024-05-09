@@ -173,7 +173,7 @@
         <meta name="color:Sidebar" content="">
         <meta name="color:SidebarGradientColor1" content="">
         <meta name="color:SidebarGradientColor2" content="">
-        <meta name="if:Show Search Box" content=""> 
+        <meta name="if:Show Search Box" content="1"> 
         <meta name="if:Logo2" content="">
         <meta name="if:ShowTitle" content="1">
         <meta name="if:ShowGreetingTitle" content="1">
@@ -1999,8 +1999,8 @@ border:1px solid rgba(255,255,255,0.4); padding-bottom:13px;
     background: rgba(0,0,0,0.5);
     z-index: 0;
     display: block;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-bottom: -2px;
     height: auto;
     border-radius: 15px;
@@ -5665,7 +5665,7 @@ font-family: Spartan;
     text-shadow: 0px 2px 4px rgba(0,0,0,0.9);
     padding: 20px;
   
-    height: 674px;
+    height: 634px;
     border-radius: 15px;
     margin-top: 12px;
     background-size: contain;
@@ -8462,7 +8462,7 @@ animation:fadeIn 7s;
  
   .post-index-meta-container:hover{box-shadow: 0px 4px 21px 3px rgb(0 0 0);margin-top:12px;}
  
-    .post {margin-bottom:14px; margin-right:14px !important;  border:1px solid rgba(255,255,255,0.3); padding-bottom: 2px;   background:rgba(0,0,0,0.0) !important; /* background: linear-gradient(271deg, #3539ff, #ffffff, #06dcff, #dad9ff);
+    .post {margin-bottom:14px; margin-right:14px !important;  border:1px solid rgba(255,255,255,0.3); padding-bottom: 2px;   background:rgba(0,0,0,0.3) !important; /* background: linear-gradient(271deg, #3539ff, #ffffff, #06dcff, #dad9ff);
     background-size: 800% 800%;
 
     -webkit-animation: colors 19s ease infinite;
