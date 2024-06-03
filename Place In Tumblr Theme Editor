@@ -37,6 +37,8 @@
         <meta name="theme-color" content="{color:Header}">
         <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
         {block:Hidden}
+        <meta name="description" content="maiOSX is the world's most advanced social operating system powered by tumblr."/>
+        <meta name="text:About" content=""/>
         <meta name="text:blogname" content=""/>
         <meta name="text:blogname2" content=""/>
         <meta name="text:YoutubeBackground" content=""/>
@@ -52,8 +54,7 @@
         <meta name="text:Logo2MarginLeft" content=""/>
         <meta name="text:Logo2MarginTop" content=""/>
         <meta name="text:MainText" content=""/>
-        <meta name="text:YourMainURL" content=""/>
-	<meta name="text:DOCKURL1" content=""/>
+	    <meta name="text:DOCKURL1" content=""/>
         <meta name="text:DOCKURL2" content=""/>
         <meta name="text:DOCKURL3" content=""/>
         <meta name="text:DOCKURL4" content=""/>
@@ -62,7 +63,7 @@
         <meta name="text:DOCKURL7" content=""/>
         <meta name="text:DOCKURL8" content=""/>
         <meta name="text:DOCKURL9" content=""/>
-	<meta name="text:DOCKURL10" content=""/>
+	    <meta name="text:DOCKURL10" content=""/>
         <meta name="text:DOCKURL11" content=""/>
         <meta name="text:DOCKURL12" content=""/>
         <meta name="text:DOCKURL13" content=""/>
@@ -73,9 +74,9 @@
         <meta name="text:DOCKURL18" content=""/>
         <meta name="text:DOCKURL19" content=""/>
         <meta name="text:DOCKURL20" content=""/>
-	<meta name="text:Your1SearchTag" content=""/>\
-        <meta name="description" content="maiOSX is the world's most advanced social operating system powered by tumblr.">
-        <meta name="text:About" content=""/>
+
+        
+    	<meta name="text:Your1SearchTag" content=""/>
         <meta name="text:Your2SearchTag" content=""/>
         <meta name="text:Your3SearchTag" content=""/>
         <meta name="text:Your4SearchTag" content=""/>
@@ -9414,7 +9415,7 @@ background: rgba(0,0,0,0.0);
 height:110px;
 
 
-    bottom: 10px;
+              bottom: -40px;
 position:fixed !important;
 border-radius:15px; 
 
