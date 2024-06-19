@@ -13199,16 +13199,16 @@ And the time is  <div class="datetime">
 
    <div id="searchcloudmobile" class="searchcloudmobile">
     <div id="searchcloudtagsm" class="searchcloudtagsm">
-    <a href="https://www.maiosx.com/search/phonk" target="_blank" title="Phonk">#phonk</a>
-    <a href="https://www.maiosx.com/search/rock" target="_blank">#rock</a>
-    <a href="https://www.maiosx.com/search/breakcore" target="_blank">#breakcore</a>
-    <a href="https://www.maiosx.com/search/miku" target="_blank">#miku</a>
-     <a href="https://www.maiosx.com/search/battletapes" target="_blank">#battletapes</a>
-     <a href="https://www.maiosx.com/search/relaxing" target="_blank">#relaxing</a>
-        <a href="https://www.maiosx.com/search/atmospheric" target="_blank">#atmospheric</a>
-        <a href="https://www.maiosx.com/search/pop" target="_blank">#pop</a>
-        <a href="https://www.maiosx.com/search/kpop" target="_blank">#kpop</a> 
-             <a href="https://www.maiosx.com/search/upbeat" target="_blank">#upbeat</a>
+    <a href="{text:YourMainURL}/search/phonk" target="_blank" title="Phonk">#phonk</a>
+    <a href="{text:YourMainURL}/search/rock" target="_blank">#rock</a>
+    <a href="https://maiosx.com/search/breakcore" target="_blank">#breakcore</a>
+    <a href="https://maiosx.com/search/miku" target="_blank">#miku</a>
+     <a href="https://maiosx.com/search/battletapes" target="_blank">#battletapes</a>
+     <a href="https://maiosx.com/search/relaxing" target="_blank">#relaxing</a>
+        <a href="https://maiosx.com/search/atmospheric" target="_blank">#atmospheric</a>
+        <a href="https://maiosx.com/search/pop" target="_blank">#pop</a>
+        <a href="https://maiosx.com/search/kpop" target="_blank">#kpop</a> 
+             <a href="https://maiosx.com/search/upbeat" target="_blank">#upbeat</a>
     
     
     
@@ -13219,14 +13219,14 @@ And the time is  <div class="datetime">
     
     
     <div id="searchcloudtagsv" class="searchcloudtagsv">
-    <a href="https://www.maiosx.com/search/movies" target="_blank">#movies</a><a  href="https://www.maiosx.com/search/beatsaber" target="_blank">#beatsaber</a><a  href="https://www.maiosx.com/search/omotea" target="_blank">#omotea</a><a  href="https://www.maiosx.com/search/dancingshana" target="_blank">#dancingshana</a>
-    <a  href="https://www.maiosx.com/search/sakuramiko" target="_blank">#sakuramiko</a>
-    <a  href="https://www.maiosx.com/search/sakamatachloe" target="_blank">#sakamatachloe</a>
-    <a  href="https://www.maiosx.com/search/hololive" target="_blank">#hololive</a>
-    <a href="https://www.maiosx.com/search/mmd" target="_blank">#mmd</a>
-    <a href="https://www.maiosx.com/search/amv" target="_blank">#amv</a>
-    <a href="https://www.maiosx.com/search/honkai" target="_blank">#honkai</a>
-     <a href="https://www.maiosx.com/search/mychannel" target="_blank">#mychannel</a>
+    <a href="https://maiosx.com/search/movies" target="_blank">#movies</a><a  href="https://maiosx.com/search/beatsaber" target="_blank">#beatsaber</a><a  href="https://maiosx.com/search/omotea" target="_blank">#omotea</a><a  href="https://maiosx.com/search/dancingshana" target="_blank">#dancingshana</a>
+    <a  href="https://maiosx.com/search/sakuramiko" target="_blank">#sakuramiko</a>
+    <a  href="https://maiosx.com/search/sakamatachloe" target="_blank">#sakamatachloe</a>
+    <a  href="https://maiosx.com/search/hololive" target="_blank">#hololive</a>
+    <a href="https://maiosx.com/search/mmd" target="_blank">#mmd</a>
+    <a href="https://maiosx.com/search/amv" target="_blank">#amv</a>
+    <a href="https://maiosx.com/search/honkai" target="_blank">#honkai</a>
+     <a href="https://maiosx.com/search/mychannel" target="_blank">#mychannel</a>
     
     
     
@@ -13235,14 +13235,14 @@ And the time is  <div class="datetime">
         
        
         <div id="searchcloudtagsp" class="searchcloudtagsp">
-        <a href="https://www.maiosx.com/search/aiart" target="_blank">#aiart</a>
-        <a href="https://www.maiosx.com/search/animeart" target="_blank">#animeart</a>
-        <a href="https://www.maiosx.com/search/miniarchillect" target="_blank">#miniarchillect</a>
-        <a href="https://www.maiosx.com/search/archillect" target="_blank">#archillect</a>
-        <a href="https://www.maiosx.com/search/maisakurajima" target="_blank">#maisakurajima</a>
-        <a href="https://www.maiosx.com/search/lycorisrecoil" target="_blank">#lycorisrecoil</a>
-        <a href="https://www.maiosx.com/search/portraitwallpapers" target="_blank">#portraitwallpapers</a>
-          <a href="https://www.maiosx.com/search/GifsAnime_" target="_blank">#GifsAnime_</a>
+        <a href="https://maiosx.com/search/aiart" target="_blank">#aiart</a>
+        <a href="https://maiosx.com/search/animeart" target="_blank">#animeart</a>
+        <a href="https://maiosx.com/search/miniarchillect" target="_blank">#miniarchillect</a>
+        <a href="https://maiosx.com/search/archillect" target="_blank">#archillect</a>
+        <a href="https://maiosx.com/search/maisakurajima" target="_blank">#maisakurajima</a>
+        <a href="https://maiosx.com/search/lycorisrecoil" target="_blank">#lycorisrecoil</a>
+        <a href="https://maiosx.com/search/portraitwallpapers" target="_blank">#portraitwallpapers</a>
+          <a href="https://maiosx.com/search/GifsAnime_" target="_blank">#GifsAnime_</a>
         
         
         
@@ -13254,9 +13254,9 @@ And the time is  <div class="datetime">
         
         
         
- <a href="https://www.maiosx.com/search/maiOSX" target="_blank">#maiOSX</a>
- <a href="https://www.maiosx.com/search/life" target="_blank">#life</a>
- <a href="https://www.maiosx.com/search/rally" target="_blank">#rally</a>
+ <a href="https://maiosx.com/search/maiOSX" target="_blank">#maiOSX</a>
+ <a href="https://maiosx.com/search/life" target="_blank">#life</a>
+ <a href="https://maiosx.com/search/rally" target="_blank">#rally</a>
  
         
         
@@ -13265,10 +13265,10 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsa" class="searchcloudtagsa">
         
         
-      <a href="https://www.maiosx.com/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
-          <a href="https://www.maiosx.com/search/magicalrevolution" target="_blank">#anime2023</a>
-             <a href="https://www.maiosx.com/search/nisekoi" target="_blank">#nisekoi</a>
-              <a href="https://www.maiosx.com/search/mirainikki" target="_blank">#mirainikki</a>
+      <a href="https://maiosx.com/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
+          <a href="https://maiosx.com/search/magicalrevolution" target="_blank">#anime2023</a>
+             <a href="https://maiosx.com/search/nisekoi" target="_blank">#nisekoi</a>
+              <a href="https://maiosx.com/search/mirainikki" target="_blank">#mirainikki</a>
         
         
         
@@ -13276,8 +13276,8 @@ And the time is  <div class="datetime">
     
       <div id="searchcloudtagsc" class="searchcloudtagsc">
         
-      <a href="https://www.maiosx.com/search/apple" target="_blank">#apple</a><a  href="https://www.maiosx.com/search/wwdc" target="_blank">#wwdc</a>
-      <a  href="https://www.maiosx.com/search/designs" target="_blank">#designs</a>
+      <a href="https://maiosx.com/search/apple" target="_blank">#apple</a><a  href="https://maiosx.com/search/wwdc" target="_blank">#wwdc</a>
+      <a  href="https://maiosx.com/search/designs" target="_blank">#designs</a>
         
         
         
@@ -13286,8 +13286,8 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsmm" class="searchcloudtagsmm">
         
         
-    <a href="https://www.maiosx.com/search/picturesfolder" target="_blank">#picturesfolder</a>
-     <a href="https://www.maiosx.com/search/youtubememes" target="_blank">#youtubememes</a>
+    <a href="https://maiosx.com/search/picturesfolder" target="_blank">#picturesfolder</a>
+     <a href="https://maiosx.com/search/youtubememes" target="_blank">#youtubememes</a>
         
         
         
@@ -13296,11 +13296,11 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsg" class="searchcloudtagsg">
         
         
-  <a href="https://www.maiosx.com/search/gta" target="_blank">#gta</a>
-   <a href="https://www.maiosx.com/search/classics" target="_blank">#classics</a>
-   <a href="https://www.maiosx.com/search/steam" target="_blank">#steam</a>
-   <a href="https://www.maiosx.com/search/appstore" target="_blank">#appstore</a>
-           <a href="https://www.maiosx.com/search/nintendo" target="_blank">#nintendo</a>
+  <a href="https://maiosx.com/search/gta" target="_blank">#gta</a>
+   <a href="https://maiosx.com/search/classics" target="_blank">#classics</a>
+   <a href="https://maiosx.com/search/steam" target="_blank">#steam</a>
+   <a href="https://maiosx.com/search/appstore" target="_blank">#appstore</a>
+           <a href="https://maiosx.com/search/nintendo" target="_blank">#nintendo</a>
         
         
         
@@ -13699,16 +13699,16 @@ And the time is  <div class="datetime">
     
     <div id="searchcloud" class="searchcloud">
     <div id="searchcloudtagsm" class="searchcloudtagsm">
-    <a href="https://www.maiosx.com/search/phonk" target="_blank" title="Phonk">#phonk</a>
-    <a href="https://www.maiosx.com/search/rock" target="_blank">#rock</a>
-    <a href="https://www.maiosx.com/search/breakcore" target="_blank">#breakcore</a>
-    <a href="https://www.maiosx.com/search/miku" target="_blank">#miku</a>
-     <a href="https://www.maiosx.com/search/battletapes" target="_blank">#battletapes</a>
-     <a href="https://www.maiosx.com/search/relaxing" target="_blank">#relaxing</a>
-        <a href="https://www.maiosx.com/search/atmospheric" target="_blank">#atmospheric</a>
-        <a href="https://www.maiosx.com/search/pop" target="_blank">#pop</a>
-        <a href="https://www.maiosx.com/search/kpop" target="_blank">#kpop</a>
-             <a href="https://www.maiosx.com/search/upbeat" target="_blank">#upbeat</a>
+    <a href="{text:YourMainURL}/search/phonk" target="_blank" title="Phonk">#phonk</a>
+    <a href="{text:YourMainURL}/search/rock" target="_blank">#rock</a>
+    <a href="{text:YourMainURL}/search/breakcore" target="_blank">#breakcore</a>
+    <a href="{text:YourMainURL}/search/miku" target="_blank">#miku</a>
+     <a href="{text:YourMainURL}/search/battletapes" target="_blank">#battletapes</a>
+     <a href="{text:YourMainURL}/search/relaxing" target="_blank">#relaxing</a>
+        <a href="{text:YourMainURL}/search/atmospheric" target="_blank">#atmospheric</a>
+        <a href="{text:YourMainURL}/search/pop" target="_blank">#pop</a>
+        <a href="{text:YourMainURL}/search/kpop" target="_blank">#kpop</a>
+             <a href="{text:YourMainURL}/search/upbeat" target="_blank">#upbeat</a>
     
     
     
@@ -13719,14 +13719,14 @@ And the time is  <div class="datetime">
     
     
     <div id="searchcloudtagsv" class="searchcloudtagsv">
-    <a href="https://www.maiosx.com/search/movies" target="_blank">#movies</a><a  href="https://www.maiosx.com/search/beatsaber" target="_blank">#beatsaber</a><a  href="https://www.maiosx.com/search/omotea" target="_blank">#omotea</a><a  href="https://www.maiosx.com/search/dancingshana" target="_blank">#dancingshana</a>
-    <a  href="https://www.maiosx.com/search/sakuramiko" target="_blank">#sakuramiko</a>
-    <a  href="https://www.maiosx.com/search/sakamatachloe" target="_blank">#sakamatachloe</a>
-    <a  href="https://www.maiosx.com/search/hololive" target="_blank">#hololive</a>
-    <a href="https://www.maiosx.com/search/mmd" target="_blank">#mmd</a>
-    <a href="https://www.maiosx.com/search/amv" target="_blank">#amv</a>
-    <a href="https://www.maiosx.com/search/honkai" target="_blank">#honkai</a>
-     <a href="https://www.maiosx.com/search/mychannel" target="_blank">#mychannel</a>
+    <a href="{text:YourMainURL}/search/movies" target="_blank">#movies</a><a  href="{text:YourMainURL}/search/beatsaber" target="_blank">#beatsaber</a><a  href="{text:YourMainURL}/search/omotea" target="_blank">#omotea</a><a  href="{text:YourMainURL}/search/dancingshana" target="_blank">#dancingshana</a>
+    <a  href="{text:YourMainURL}/search/sakuramiko" target="_blank">#sakuramiko</a>
+    <a  href="{text:YourMainURL}/search/sakamatachloe" target="_blank">#sakamatachloe</a>
+    <a  href="{text:YourMainURL}/search/hololive" target="_blank">#hololive</a>
+    <a href="{text:YourMainURL}/search/mmd" target="_blank">#mmd</a>
+    <a href="{text:YourMainURL}/search/amv" target="_blank">#amv</a>
+    <a href="{text:YourMainURL}/search/honkai" target="_blank">#honkai</a>
+     <a href="{text:YourMainURL}/search/mychannel" target="_blank">#mychannel</a>
     
     
     
@@ -13735,14 +13735,14 @@ And the time is  <div class="datetime">
         
        
         <div id="searchcloudtagsp" class="searchcloudtagsp">
-        <a href="https://www.maiosx.com/search/aiart" target="_blank">#aiart</a>
-        <a href="https://www.maiosx.com/search/animeart" target="_blank">#animeart</a>
-        <a href="https://www.maiosx.com/search/miniarchillect" target="_blank">#miniarchillect</a>
-        <a href="https://www.maiosx.com/search/archillect" target="_blank">#archillect</a>
-        <a href="https://www.maiosx.com/search/maisakurajima" target="_blank">#maisakurajima</a>
-        <a href="https://www.maiosx.com/search/lycorisrecoil" target="_blank">#lycorisrecoil</a>
-        <a href="https://www.maiosx.com/search/portraitwallpapers" target="_blank">#portraitwallpapers</a>
-          <a href="https://www.maiosx.com/search/GifsAnime_" target="_blank">#GifsAnime_</a>
+        <a href="{text:YourMainURL}/search/aiart" target="_blank">#aiart</a>
+        <a href="{text:YourMainURL}/search/animeart" target="_blank">#animeart</a>
+        <a href="{text:YourMainURL}/search/miniarchillect" target="_blank">#miniarchillect</a>
+        <a href="{text:YourMainURL}/search/archillect" target="_blank">#archillect</a>
+        <a href="{text:YourMainURL}/search/maisakurajima" target="_blank">#maisakurajima</a>
+        <a href="{text:YourMainURL}/search/lycorisrecoil" target="_blank">#lycorisrecoil</a>
+        <a href="{text:YourMainURL}/search/portraitwallpapers" target="_blank">#portraitwallpapers</a>
+          <a href="{text:YourMainURL}/search/GifsAnime_" target="_blank">#GifsAnime_</a>
         
         
         
@@ -13754,9 +13754,9 @@ And the time is  <div class="datetime">
         
         
         
- <a href="https://www.maiosx.com/search/maiOSX" target="_blank">#maiOSX</a>
- <a href="https://www.maiosx.com/search/life" target="_blank">#life</a>
- <a href="https://www.maiosx.com/search/rally" target="_blank">#rally</a>
+ <a href="{text:YourMainURL}/search/maiOSX" target="_blank">#maiOSX</a>
+ <a href="{text:YourMainURL}/search/life" target="_blank">#life</a>
+ <a href="{text:YourMainURL}/search/rally" target="_blank">#rally</a>
  
         
         
@@ -13765,10 +13765,10 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsa" class="searchcloudtagsa">
         
         
-      <a href="https://www.maiosx.com/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
-          <a href="https://www.maiosx.com/search/magicalrevolution" target="_blank">#anime2023</a>
-             <a href="https://www.maiosx.com/search/nisekoi" target="_blank">#nisekoi</a>
-              <a href="https://www.maiosx.com/search/mirainikki" target="_blank">#mirainikki</a>
+      <a href="{text:YourMainURL}/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
+          <a href="{text:YourMainURL}/search/magicalrevolution" target="_blank">#anime2023</a>
+             <a href="{text:YourMainURL}/search/nisekoi" target="_blank">#nisekoi</a>
+              <a href="{text:YourMainURL}/search/mirainikki" target="_blank">#mirainikki</a>
         
         
         
@@ -13776,8 +13776,8 @@ And the time is  <div class="datetime">
     
       <div id="searchcloudtagsc" class="searchcloudtagsc">
         
-      <a href="https://www.maiosx.com/search/apple" target="_blank">#apple</a><a  href="https://www.maiosx.com/search/wwdc" target="_blank">#wwdc</a>
-      <a  href="https://www.maiosx.com/search/designs" target="_blank">#designs</a>
+      <a href="{text:YourMainURL}/search/apple" target="_blank">#apple</a><a  href="{text:YourMainURL}/search/wwdc" target="_blank">#wwdc</a>
+      <a  href="{text:YourMainURL}/search/designs" target="_blank">#designs</a>
         
         
         
@@ -13786,8 +13786,8 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsmm" class="searchcloudtagsmm">
         
         
-    <a href="https://www.maiosx.com/search/picturesfolder" target="_blank">#picturesfolder</a>
-     <a href="https://www.maiosx.com/search/youtubememes" target="_blank">#youtubememes</a>
+    <a href="{text:YourMainURL}/search/picturesfolder" target="_blank">#picturesfolder</a>
+     <a href="{text:YourMainURL}/search/youtubememes" target="_blank">#youtubememes</a>
         
         
         
@@ -13796,11 +13796,11 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsg" class="searchcloudtagsg">
         
         
-  <a href="https://www.maiosx.com/search/gta" target="_blank">#gta</a>
-   <a href="https://www.maiosx.com/search/classics" target="_blank">#classics</a>
-   <a href="https://www.maiosx.com/search/steam" target="_blank">#steam</a>
-   <a href="https://www.maiosx.com/search/appstore" target="_blank">#appstore</a>
-           <a href="https://www.maiosx.com/search/nintendo" target="_blank">#nintendo</a>
+  <a href="{text:YourMainURL}/search/gta" target="_blank">#gta</a>
+   <a href="{text:YourMainURL}/search/classics" target="_blank">#classics</a>
+   <a href="{text:YourMainURL}/search/steam" target="_blank">#steam</a>
+   <a href="{text:YourMainURL}/search/appstore" target="_blank">#appstore</a>
+           <a href="{text:YourMainURL}/search/nintendo" target="_blank">#nintendo</a>
         
         
         
