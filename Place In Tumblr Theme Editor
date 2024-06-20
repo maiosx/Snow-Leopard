@@ -218,7 +218,7 @@
     border: 1px solid rgba(255,255,255,0.5);}
     
     .iconsholder:hover
-{    width: 1000px; transform:scale(1.0);     margin-top: 0px;
+{    width: 80%; transform:scale(1.0);     margin-top: 0px;
     height: 87px; padding-left: 15px;
     background: rgba(0,0,0,0.4);
   margin-left: -30px;
@@ -14590,28 +14590,14 @@ id="youtube-audio">
                  </div>
                 <div id="widget6subtext" class="widget6subtext">
              <a href="https://www.apple.com/apple-events/">Apple Events</a>
-              <a href="https://www.tumblr.com/mega-editor/published/chiosx/">MPV</a>
+              <a href="https://www.tumblr.com/mega-editor/published/zenlossq/">MPV</a>
                   <a href="https://drive.google.com/drive/folders/0BwKN3_36F61kSUNncndxQWZmdFk?resourcekey=0-1VRJGcOtByElNEdDONto8w&usp=sharing">GDrive </a>
                   <a href="https://maiosx.com/post/705208902559662080/announcements">★</a>
                 </div> 
          </div> 
          
-          <div id="widget7" class="widget7">
-                <div id="widget7text" class="widget7text">
-                     NFTs
-                 </div>
-                <div id="widget7subtext" class="widget7subtext">
-             <a href="">1</a>
-              <a href="">2</a>
-                  <a href="">3</a>
-                  <a href="OpenSea"  
-    onclick="window.open('https://opensea.io/Sakurajima_AI', 
-                         'newwindow1', 
-                         'width=510,height=832'); 
-              return false;"
- >OpenSea</a>
-                </div> 
-         </div> 
+         
+      
          
             <div id="widget8" class="widget8">
                 <div id="widget8text" class="widget8text">
@@ -14625,23 +14611,7 @@ id="youtube-audio">
                 </div> 
          </div> 
          
-          <div id="widget9" class="widget9">
-                <div id="widget9text" class="widget9text">
-                     Hyper Networks
-                 </div>
-                <div id="widget9subtext" class="widget9subtext">
-             <a href="https://drive.google.com/file/d/1tr2LxItBgQaxndpLW2u47u_wwKuz5DDi/view?usp=share_link">Mai3.5k</a>
-              <a href="https://drive.google.com/file/d/194rVNDvxB6mXcQMiy7UjAqpEEgUka9qF/view?usp=sharing">Euphy1.5k</a>
-                  <a href=""></a>
-                  <a href=""></a>
-                </div> 
-         </div> 
-            <div id="widget10" class="widget10">
-                <div id="widget10text" class="widget10text">
-                     X Feed
-                 </div>
-           <a class="twitter-timeline" data-width="384" data-height="800" data-theme="dark" href="https://twitter.com/maiosxdev?ref_src=twsrc%5Etfw">Tweets by maiosxdev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-         </div> 
+         
     
  </div>
         
