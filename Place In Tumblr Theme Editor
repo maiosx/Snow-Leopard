@@ -214,15 +214,15 @@
     overflow-x: scroll; backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
     display: -webkit-inline-box;
         display: inline-box;
-    border-radius: 15px; transition:200ms;
+    border-radius: 15px; transition:200ms 2s;
     border: 1px solid rgba(255,255,255,0.5);}
     
     .iconsholder:hover
-{    width: 80%; transform:scale(1.0);     margin-top: 0px;
+{    width: 87%; transform:scale(1.0);     margin-top: 0px;
     height: 87px; padding-left: 15px;
     background: rgba(0,0,0,0.4);
   margin-left: -30px;
-    position: relative;     box-shadow: 0px 2px 5px 1px rgb(0 0 230/ 50%);
+    position: relative;     box-shadow: 0px 0px 30px 1000px rgb(0 0 0/ 90%);
     bottom: 140px !important; transition:200ms;
     overflow-x: scroll; backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
     display: -webkit-inline-box;
@@ -1507,7 +1507,7 @@ border-radius:15px;
     width: 456px;    font-weight:bold;
     display: block;
     color: fff;
-    word-break: break-all;
+    word-break: break-word;
     width: 456px;
     color: #fff; font-family:Quicksand;
    
@@ -1520,7 +1520,7 @@ border-radius:15px;
     width: 456px;    
     display: block; font-family:Quicksand;
     color: fff; font-weight:bold;
-    word-break: break-all;
+    word-break: break-word;
     width: 456px;
     color: #fff;
             
@@ -1629,8 +1629,8 @@ font-family: Quicksand;
     max-height:214px; overflow: scroll;
     word-break: break-word;      margin-bottom: 10px;
             background-color: transparent;
-            border-top-left-radius: 0px;
-            border-top-right-radius: 0px;
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
      
             text-align:center;
             color:#fff; opacity:100%; 
@@ -10084,8 +10084,8 @@ text set in the data-text attribute. */
     background-position-x: center;
     word-break: break-word; 
             background-color: transparent;
-            border-top-left-radius: 0px;
-            border-top-right-radius: 0px;
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
             border-bottom-left-radius: 15px;
             border-bottom-right-radius: 15px;
             text-align:center;
@@ -12970,7 +12970,7 @@ And the time is  <div class="datetime">
  <div id="qa" class="qa" style="
     margin-top: 50px;
 ">
- <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://maiosx.com/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://maiosx.com/search/movies"> see movie trailers</a>, <a href="https://maiosx.com/search/anime">look at anime art</a>, <a href="https://twitter.com/maiosxdev/lists">view the lists, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams</a>, <a href="https://www.discord.com/app">chat</a>,<a href="https://www.joyland.ai"> talk to AI</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.com/channels/1002292111942635562/"> diffuse</a>...</p>
+ <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://maiosx.com/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://maiosx.com/search/movies"> see movie trailers</a>, <a href="https://maiosx.com/search/anime">look at anime art</a>, <a href="https://twitter.com/maiosxdev/lists">view the lists, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams</a>, <a href="https://www.discord.com/app">chat</a>,<a href="https://www.joyland.ai"> talk to AI</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.com/channels/1002292111942635562/"> diffuse</a>...</p>
  </div>
  <div id="divx2" class="divx2">
     <img class="bottom" src="https://i.imgur.com/n5w6LdS.png">
