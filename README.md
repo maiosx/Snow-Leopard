@@ -4,7 +4,7 @@ Requirements as of Jan/26/2024
 - Edge Browser on a 1920x1080 capable PC or Mac with atleast 2GB of VRAM
 - iPhone 13 + up, Chrome on Android with a modern Snapdragon chip.
 
-This is it. The Big Release. Demo at [maiosx.com](https://maiosx.com)
+This is it. The Big Release. Demo at [maiosx.com](https://maiosx.com) currently.
 
 AlyaOSX has undergone rigorous development for many years and is now ready for the masses.
 
