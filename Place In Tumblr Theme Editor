@@ -5,10 +5,16 @@
          //*  <script type="text/javascript"> 
    window.location.replace("http://twitter.com/archillect");  
    </script> *//
+   
+                RAGE AGAINST THE MACHINE
+                A WAVE INDUSTRIES PRODUCTION
                 
-                    Mai OS X                    
-                                                     
-                        //for youtube effects toggle blur on main or rewrite the code so that posts are above the effect//  
+                Alya OS X                    
+                THE WORLD IS YOURS
+                
+        //for youtube effects toggle blur on main or rewrite the code so that posts are above the effect using the z-index
+                        
+          for portrait backgrounds enable gifbg as well//  
         -->            
         
         
@@ -262,6 +268,31 @@ margin-bottom:10px; box-shadow: 0px 0px 20px 1px rgb(66 245 230/ 100%);}
     width: 41px;
     margin-right: 38px;
     margin-bottom: 50px;}
+    
+         
+        .cornerbutton2 {display: none;
+    bottom: 0;
+    right: 0;
+    margin-left: -100px;
+    position: fixed;
+    z-index: 9999;
+    height: 41px;
+    
+    width: 41px;
+    margin-right: 38px;
+    margin-bottom: 50px;}
+    
+      .cornerbutton3 {display: none;
+    bottom: 0;
+    right: 0;
+    margin-left: -100px;
+    position: fixed;
+    z-index: 9999;
+    height: 41px;
+    
+    width: 41px;
+    margin-right: 135px;
+    margin-bottom: 50px;}
        .qdialogpage {display: none; 
     height: 100%; 
     width: 100%; animation-name:fadeInfromblack;
@@ -272,6 +303,7 @@ margin-bottom:10px; box-shadow: 0px 0px 20px 1px rgb(66 245 230/ 100%);}
     top: 0; 
     position: absolute; 
     z-index: 100;}
+    
 .q {       animation: slide-top 18s cubic-bezier(0.785, 0.135, 0.150, 0.860) reverse forwards; text-shadow: 0px 2px 4px rgba(0,0,0,0.6);
     margin-top: 500px;
     font-family: 'Quicksand';
@@ -1765,7 +1797,7 @@ opacity: 100%;
         .widget1 {width:374px; height:686px; background:rgba(0,0,0,0.6); border-radius:15px;  color:white; background: rgba(0,0,0,0.2);background:url(https://i.ibb.co/phDGLD7/artwork-left.gif); opacity:100%; ); 
     background-size: 100% 100%; padding-top:13px;padding-bottom:13px;
 animation: ease-in 2s; border:1px solid rgba(255,255,255,0.2);
-    transition: 2s;     filter: saturate(1.5);
+    transition: 2s;     filter: saturate(1.5);display:none;
     box-shadow: 0 5px 15px 0px #000;} 
     
     
@@ -6970,7 +7002,7 @@ margin-left:10px;
     animation-timing-function: ease-in;
     animation-fill-mode: forwards;
     left: 0;
-    top: 0; 
+    top: 0;  background-color:black;
     position: fixed; 
     z-index: 100;}
     .q a {color:white;}
@@ -7266,6 +7298,9 @@ margin-left:10px;
     .mainbutton {width:100%; display:block; background:rgba(0,0,0,0.0); position:relative;z-index:999;}
     .mainbutton:hover {width:100%; display:block; background:rgba(0,0,0,0.1); position:relative;z-index:999;}
       .cornerbutton {display:block;  top:18px;right:50px; margin-left:87px; position:fixed; z-index:999999;}
+           .cornerbutton2 {display:block;  top:18px;right:120px; margin-left:87px; position:fixed; z-index:999999;font-family:'Quicksand';font-size:20px;}
+           
+              .cornerbutton3 {display:block;  top:18px;right:120px; margin-left:87px; position:fixed; z-index:999999;font-family:'Quicksand';font-size:20px;}
     
     .capcut {display:block; width:256px; height:256px;display: block;
     width: 256px;
@@ -12968,9 +13003,9 @@ And the time is  <div class="datetime">
     <div id="q" class="q">
  What would you like to do?
  <div id="qa" class="qa" style="
-    margin-top: 50px;
+    margin-top: 50px; font-weight:100;
 ">
- <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://maiosx.com/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://maiosx.com/search/movies"> see movie trailers</a>, <a href="https://maiosx.com/search/anime">look at anime art</a>, <a href="https://twitter.com/maiosxdev/lists">view the lists, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams</a>, <a href="https://www.discord.com/app">chat</a>,<a href="https://www.joyland.ai"> talk to AI</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.com/channels/1002292111942635562/"> diffuse</a>...</p>
+ <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://maiosx.com/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://qz.com"> read Quartz news</a>,<a href="https://rottentomatoes.com/"> see movie trailers</a>, <a href="https://maiosx.com/search/anime">look at anime art</a>, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams on twitch</a>, <a href="https://www.discord.com/app">chat on Discord</a>,<a href="https://chatgpt.com/"> use ChatGPT</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.gg/stablediffusion"> diffuse</a>...</p>
  </div>
  <div id="divx2" class="divx2">
     <img class="bottom" src="https://i.imgur.com/n5w6LdS.png">
@@ -13096,7 +13131,7 @@ And the time is  <div class="datetime">
     <img class="bottom" src="https://i.imgur.com/n5w6LdS.png">
    
     <audio id="audio">
-      <source src="https://dl.sndup.net/r2dh/protovision.mp3">
+      <source src="https://dl.sndup.net/59c33/hey.m4a">
     </audio>
   </div>
 
@@ -13119,7 +13154,7 @@ And the time is  <div class="datetime">
             <div id="msearchbox" class="msearchbox">
                  {block:IfShowSearchBox}
     <form action="/search" method="get" id="search-form">
-    <input class="search3" type="text" placeholder="Search maiOSX" name="q" value="{SearchQuery}" style="
+    <input class="search3" type="text" placeholder="Search Alya" name="q" value="{SearchQuery}" style="
         border-radius: 15px;
     height: 45px;
     margin-left: -9px;
@@ -13266,7 +13301,7 @@ And the time is  <div class="datetime">
         
         
       <a href="https://maiosx.com/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
-          <a href="https://maiosx.com/search/magicalrevolution" target="_blank">#anime2023</a>
+          <a href="https://maiosx.com/search/magicalrevolution" target="_blank">#anime</a>
              <a href="https://maiosx.com/search/nisekoi" target="_blank">#nisekoi</a>
               <a href="https://maiosx.com/search/mirainikki" target="_blank">#mirainikki</a>
         
@@ -13307,7 +13342,7 @@ And the time is  <div class="datetime">
     </div>
 </div>
  <div id="about" class="about">{text:About}</div>
-  <div id="about" class="about"><a href="https://github.com/maiOSX/Snow-Leopard">maiOSX Snow Leopard</a> is the world's most advanced "OS" made for Tumblr consisting of over 15,000 lines of code. <a href="https://www.canva.com/design/DAFrQrhjLYo/s3Y97QswwYtC4jwXjap-Qg/view?utm_content=DAFrQrhjLYo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">A documentation guide for it can be found here.</a></div>
+  <div id="about" class="about"><a href="https://github.com/alyaOSX/Snow-Leopard">AlyaOSX</a> is the world's most advanced "OS" made for Tumblr consisting of over 15,000 lines of code. <a href="https://www.canva.com/design/DAFrQrhjLYo/s3Y97QswwYtC4jwXjap-Qg/view?utm_content=DAFrQrhjLYo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">A documentation guide for it can be found here.</a></br></br>For native use, Wave Inc. recommends <a href="https://www.mydockfinder.com/">MyDockFinder</a> as an alternative to the macOSX GUI to run on Windows and buying a mac for the true Apple Inc. fan.</div>
 
                 <ul class="sidebar-links sidebar-links-main">
                     
@@ -13561,7 +13596,7 @@ And the time is  <div class="datetime">
 <div id="searchfordesktop" class="searchfordesktop">
   {block:IfShowSearchBox}
     <form action="/search" method="get" id="search-form">
-    <input class="search3" type="text" placeholder="🐇 Search Mai" name="q" value="{SearchQuery}" style="
+    <input class="search3" type="text" placeholder="Search Alya" name="q" value="{SearchQuery}" style="
        border-radius: 150px;
     text-align: center; margin-top: 60px;
 
@@ -13766,7 +13801,7 @@ And the time is  <div class="datetime">
         
         
       <a href="{text:YourMainURL}/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
-          <a href="{text:YourMainURL}/search/magicalrevolution" target="_blank">#anime2023</a>
+          <a href="{text:YourMainURL}/search/anime" target="_blank">#anime</a>
              <a href="{text:YourMainURL}/search/nisekoi" target="_blank">#nisekoi</a>
               <a href="{text:YourMainURL}/search/mirainikki" target="_blank">#mirainikki</a>
         
@@ -14473,7 +14508,7 @@ Unknown
 
     {block:IfShowSearchBox}
     <form action="/search" method="get" id="search-form">
-    <input class="search3" type="text" placeholder="🐇 Search Mai" name="q" value="{SearchQuery}" style="
+    <input class="search3" type="text" placeholder="Search Alya" name="q" value="{SearchQuery}" style="
        border-radius: 150px;
     text-align: center; 
     opacity: 90%; width: 186px;
@@ -14592,7 +14627,7 @@ id="youtube-audio">
              <a href="https://www.apple.com/apple-events/">Apple Events</a>
               <a href="https://www.tumblr.com/mega-editor/published/zenlossq/">MPV</a>
                   <a href="https://drive.google.com/drive/folders/0BwKN3_36F61kSUNncndxQWZmdFk?resourcekey=0-1VRJGcOtByElNEdDONto8w&usp=sharing">GDrive </a>
-                  <a href="https://maiosx.com/post/705208902559662080/announcements">★</a>
+                  <a href="https://maiosx.tumblr.com/post/705208902559662080/announcements">★</a>
                 </div> 
          </div> 
          
@@ -15593,5 +15628,35 @@ Your browser does not support inline frames or is currently configured not to di
     backdrop-filter: blur(5px);
     marin-left: 58px !important;
 "></div>
+
+ <div id="cornerbutton2" class="cornerbutton2">
+     <a href="https://trello.com/" target="_blank"  style="
+    border-radius: 23px;
+    height: 30px;
+    margin-right: -75px;
+    margin-bottom: 27px;
+    width: 62px;
+    color: white;
+    margin-left: 7px !important;
+    margin-top: 2px;
+    display: block;
+}
+">Trello</a>
+ </div>
+  <div id="cornerbutton3" class="cornerbutton3">
+     <a href="https://coinbase.com/" target="_blank"  style="
+    border-radius: 23px;
+    height: 30px;
+    margin-right: -75px;
+    margin-bottom: 27px;
+    width: 62px;
+    color: white;
+    margin-left: 7px !important;
+    margin-top: 2px;
+    display: block;
+}
+">Coinbase</a>
+ </div>
+ 
     </body>
 </html>
