@@ -1,5 +1,5 @@
 maiOSX is the world's most advanced tumblr "OS" designed in mind for file retention across your (modern) devices.
-It runs on [Plash](https://apps.apple.com/us/app/plash/id1494023538?mt=12) for macs running Sonoma+ and on [Hidamari](https://flathub.org/apps/io.github.jeffshee.Hidamari) for flatpak capable linux distros with the  shell extensions dash to dock and just perfection on the Gnome Desktop Environment.
+It runs on [Plash](https://apps.apple.com/us/app/plash/id1494023538?mt=12) for macs running Sonoma+ and on [Hidamari](https://flathub.org/apps/io.github.jeffshee.Hidamari) for flatpak capable linux distros with the gnome shell extensions dash to dock and just perfection on the Gnome Desktop Environment.
 
 Requirements as of Jan/26/2024
 - Edge Browser on a 1920x1080 capable PC or Mac with atleast 2GB of VRAM
