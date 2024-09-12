@@ -11,6 +11,6 @@ maiOSX has undergone rigorous development for many years and is now ready for th
 
 [VISUAL INSTALL + USER GUIDE from 8/11/23](https://www.canva.com/design/DAFrQrhjLYo/s3Y97QswwYtC4jwXjap-Qg/view?utm_content=DAFrQrhjLYo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
-[GITBOOK INSTALL + USER GUIDE updated on 1/26/24](https://maiosx.gitbook.io/1.0)
+[GITBOOK INSTALL + USER GUIDE updated on 9/11/24](https://maiosx.gitbook.io/1.0)
 
 ❤️
