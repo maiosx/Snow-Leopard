@@ -3,7 +3,7 @@ It runs on [Plash](https://apps.apple.com/us/app/plash/id1494023538?mt=12) for m
 
 Requirements as of Jan/26/2024
 - Edge Browser on a 1920x1080 capable PC or Mac with atleast 2GB of VRAM
-- iPhone 13 + up, Chrome on Android with a modern Snapdragon chip.
+- iPhone 13+, Chrome on Android with a modern Snapdragon chip.
 
 This is it. The Big Release. Demo at [maiosx.com](https://maiosx.com) currently.
 
