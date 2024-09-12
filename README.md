@@ -13,6 +13,4 @@ maiOSX has undergone rigorous development for many years and is now ready for th
 
 [GITBOOK INSTALL + USER GUIDE updated on 1/26/24](https://maiosx.gitbook.io/1.0)
 
-❤️ Support the developer
-
-![Unknown](https://github.com/maiOSX/Snow-Leopard/assets/124741903/c2a9a803-d1e9-4299-b05c-2210b6ad0ab3)
+❤️
