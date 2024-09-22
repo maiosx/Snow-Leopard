@@ -1625,23 +1625,28 @@ font-family: Quicksand;
         }
 
         .post h2 { 
-               
-    font-size: 14px;
-    display: table-caption;
-    border-radius: 15px;
-    width: 446px;font-weight:bold;
+       font-size: 30px;
+    display: table-cell;
+    /* border-radius: 16px; */
+    width: 456px;
+    font-weight: bold;
     word-break: initial;
-   background:lightblue !important;
-   position:relative;
-   z-index:99999999;
-        text-shadow: 0px 2px 4px rgb(0 0 0 / 40%);
-    text-align: center; 
-
-    font-family:'Quicksand';
-    line-height: 28px;
-   color:white;
-   transition: ease-in 300ms;;
-}
+    background: rgba(0,0,0,0.0);
+    border-bottom:1px solid rgba(255,255,255,0.1);
+    position: relative;
+    z-index: 9;
+    text-shadow: 0px 2px 4px rgb(0 0 0 / 40%);
+    text-align: center;
+    font-family: 'Quicksand';
+    line-height: normal;
+    color: white;
+    transition: ease-in 300ms;
+    /* margin-left: 10px; */
+    /* padding-left: 0px; */
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+            padding:10px;
+        }
 
         .post p {
             
