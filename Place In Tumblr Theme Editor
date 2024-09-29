@@ -7518,10 +7518,9 @@ margin-top: -258px;
         margin-top: 0px;
         width:100%;  
         background-size:cover !important;
-           
         background:url('{image:SearchWallpaper}'); 
           {block:IfDefaultsOn}
-      background-image: url('https://i.imgur.com/gr6uUXc.jpg');
+      background-image: url('https://i.imgur.com/gr6uUXc.jpg') !important;
          {/block:IfDefaultsOn}
       /*   {block:IfTurnOnBlurMobile}  background-size:cover;
                 backdrop-filter:blur(5px);
@@ -7530,19 +7529,23 @@ margin-top: -258px;
         top:0;  
         margin-top: -1px !important;
         z-index:9 !important; overflow-y:scroll;
-        transition:3s; /* background:rgba(0,0,0,0.5); */
+        transition:1s; /* background:rgba(0,0,0,0.5); */
        
 }
 .searchcontainer2:hover {      margin-top: -1px !important;
         width:100%; 
      overflow-y:scroll;
+      background:url('{image:SearchWallpaper}'); 
+       {block:IfDefaultsOn}
+      background-image: url('https://i.imgur.com/gr6uUXc.jpg') !important;
+         {/block:IfDefaultsOn}
       /*   {block:IfTurnOnBlurMobile}  
                 backdrop-filter:blur(5px);
                 -webkit-backdrop-filter:blur(5px);
     {/block:IfTurnOnBlurMobile}  */
         top:0;  
         z-index:7; 
-        transition:3s; 
+        transition:1s; 
        
 }
 
@@ -12472,7 +12475,8 @@ $(document).ready(function(){
         $(".qdialogpage").css({'display': 'block','pointer-events':'none'});
         $(".q").css({'display': 'block','opacity':'0','pointer-events':'none'});
         $(".main").css({'backdrop-filter': 'blur(0px)',
-               '-webkit-backdrop-filter': 'blur(0px)'});
+               '-webkit-backdrop-filter': 'blur(0px)',
+               'background':'rgba(0,0,0,0.5)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(0px)',
                '-webkit-backdrop-filter': 'blur(0px)',
                'background':'rgba(0,0,0,0.5)'});
