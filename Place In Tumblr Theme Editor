@@ -12278,7 +12278,7 @@ $(document).ready(function(){
                       $(".cornerbutton2").css({'display': 'none'});
                        $(".iconsholder").css({'display': 'none'}); 
                      $('html,body').animate({scrollTop: document.body.scrollHeight},"fast");
-                      
+                       $(".toggle8").css({'display': 'none'});  
                       
      });
 });
@@ -12288,7 +12288,7 @@ $(document).ready(function(){
     $("#btn_id2").click(function(){
           $(".helloc").css({'display': 'block','opacity':'0'});
              $(".qdialogpage").css({'display': 'block'});
-          
+            $(".toggle8").css({'display': 'block'}); 
             $(".hellofade").css({'display': 'none'});
                 $(".hellob").css({'display': 'none'});
                     $(".hellouser").css({'display': 'none'});
@@ -12762,7 +12762,8 @@ document.addEventListener('click', function (event) {
 
 	// Toggle the content
 	toggle(content);
-
+    $(".iconsholder").css({'display': 'none'}); 
+      $(".toggle8").css({'display': 'none'}); 
 }, false);
 
         var show = function (elem) {
