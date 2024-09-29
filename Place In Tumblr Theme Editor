@@ -12300,8 +12300,9 @@ $(document).ready(function(){
                         $(".toggle6").css({'display': 'block'});
                     $(".toggle5").css({'display': 'block'});
                   $(".toggle4").css({'display': 'block'});
-                  
-                  
+                       $(".cornerbutton3").css({'display': 'none'});
+                      $(".cornerbutton2").css({'display': 'none'});
+                    $(".toggle8").css({'display': 'none'});  
                    $(".main").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(6px)',
@@ -12313,13 +12314,12 @@ $(document).ready(function(){
         $(".icon-bar").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
                'background':'rgba(0,0,0,0.0)'});
-            
+              $(".iconsholder").css({'display': 'none'}); 
         $(".youtubeeffect").css({'display': 'block'}); 
         $(".orbstop").css({'display': 'block'}); 
         $(".youtubebackground").css({'display': 'block'});
        $(".capcut1").css({'display': 'block'});
                             $(".capcutcloud").css({'display': 'block'});
-                               $(".iconsholder").css({'display': '-webkit-inline-box'}); 
                $('html,body').animate({scrollTop: document.body.scrollHeight},"fast"); 
   
             
@@ -12330,11 +12330,12 @@ $(document).ready(function(){
    <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id3").click(function(){
-               
+                  $(".cornerbutton3").css({'display': 'block'});
+                      $(".cornerbutton2").css({'display': 'block'});
                 $(".hellofade").css({'display': 'none'});
                  $(".helloc").css({'display': 'block','opacity':'100'});
                   $(".hellob").css({'display': 'none'}); 
-             
+               $(".iconsholder").css({'display': '-webkit-inline-box'}); 
                        $(".pong").css({'display': 'none'});
                         $(".pongheader").css({'display': 'none'});
                               $(".toggle7").css({'display': 'block'});
@@ -12352,7 +12353,7 @@ $(document).ready(function(){
         $(".icon-bar").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
                'background':'rgba(0,0,0,0.0)'});
-           
+             $(".toggle8").css({'display': 'block'});  
         $(".youtubeeffect").css({'display': 'block'}); 
         $(".orbstop").css({'display': 'block'}); 
         $(".youtubebackground").css({'display': 'block'});
