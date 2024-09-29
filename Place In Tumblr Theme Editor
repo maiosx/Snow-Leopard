@@ -12277,7 +12277,7 @@ $(document).ready(function(){
                                $(".cornerbutton3").css({'display': 'none'});
                       $(".cornerbutton2").css({'display': 'none'});
                        $(".iconsholder").css({'display': 'none'}); 
-                      
+                     $('html,body').animate({scrollTop: document.body.scrollHeight},"fast");
                       
                       
      });
@@ -12320,7 +12320,7 @@ $(document).ready(function(){
        $(".capcut1").css({'display': 'block'});
                             $(".capcutcloud").css({'display': 'block'});
                                $(".iconsholder").css({'display': '-webkit-inline-box'}); 
-              
+               $('html,body').animate({scrollTop: document.body.scrollHeight},"fast"); 
   
             
      });
@@ -12509,7 +12509,7 @@ $(document).ready(function(){
            {/block:IfShowYouTubeBackground}
                  $(".hellofade").css({'display': 'none'});
           $(".hellob").css({'display': 'none'}); 
-          
+         $('html,body').animate({scrollTop: document.body.scrollHeight},"fast");   
                
      });
 });  
