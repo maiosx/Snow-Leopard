@@ -12401,7 +12401,7 @@ $(document).ready(function(){
                  $(".qdialogpage").css({'display': 'none'});
                    $(".qdialogpage").css({'display': 'none'});
                       $(".iconsholder").css({'display': 'none'});
-              
+                $(".toggle8").css({'display': 'none'});  
                 
      });
 });
