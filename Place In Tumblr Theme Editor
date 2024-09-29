@@ -7000,7 +7000,7 @@ margin-left:10px;
     border-radius: 250px;}
     
     .divx img {height:100%; width:100%;}
-    .qdialogpage {display: block;
+    .qdialogpage {display: none;
    height: 100%; 
     width: 100%; 
    animation-duration:50s; pointer-events:all;
@@ -7364,7 +7364,7 @@ margin-left:10px;
 
 
     
-    .hellofade {display:block;}
+    .hellofade {display:none;}
 .romok {display:block;}
     div.npf-link-block.no-poster .title {
     padding: 16px 12px 0;
@@ -8854,7 +8854,7 @@ border:1px solid rgba(255,255,255,0.9); }
     animation-timing-function: ease-in; 
     animation-fill-mode: forwards; 
 }
- .hellob {display:block;      animation: fadeInX 90s; animation-iteration-count:1;background:rgba(0,0,0,{text:PortraitModeBlurDarkAmount}); width:100%;height:101.6%;z-index:99; position:fixed; -webkit-backdrop-filter: blur(10px); 
+ .hellob {display:none;      animation: fadeInX 90s; animation-iteration-count:1;background:rgba(0,0,0,{text:PortraitModeBlurDarkAmount}); width:100%;height:101.6%;z-index:99; position:fixed; -webkit-backdrop-filter: blur(10px); 
    margin-top:-16px;   }  
 
        {block:IfPortraitDesktopBG}
@@ -12244,7 +12244,7 @@ feather.replace()
    <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id").click(function(){
-        $("#main").css({'left': '37%', 'width' : '494px','display': 'block'});
+        $("#main").css({'left': '37%', 'width' : '494px','display': 'block',     {block:IfMainColorOn}'background':'{color:MainColor}'{/block:IfMainColorOn}});
           $(".hellouser").css({'display': 'none'});
             $(".hellob").css({'display': 'none'});
             $(".hellofade").css({'display': 'none'});
@@ -12288,7 +12288,7 @@ $(document).ready(function(){
                $(".qdialogpage").css({'display': 'none'});
                      $(".pong").css({'display': 'none'});
                         $(".pongheader").css({'display': 'none'});
-                          $(".main").css({'display': 'block','left': '0%', 'width' : '100%'});
+                          $(".main").css({'display': 'block','left': '0%', 'width' : '100%', {block:IfMainColorOn}'background':'{color:MainColor}'{/block:IfMainColorOn}});
                               $(".toggle7").css({'display': 'block'});
                         $(".toggle6").css({'display': 'block'});
                     $(".toggle5").css({'display': 'block'});
@@ -12332,8 +12332,7 @@ $(document).ready(function(){
                     $(".toggle5").css({'display': 'block'});
                   $(".toggle4").css({'display': 'block'});
                     $(".main").css({'backdrop-filter': 'blur(6px)',
-               '-webkit-backdrop-filter': 'blur(6px)','display':'block',
-               'background':'rgba(0,0,0,0.0)'});
+               '-webkit-backdrop-filter': 'blur(6px)','display':'block'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
                'background':'rgba(0,0,0,0.0)'});
@@ -12384,7 +12383,8 @@ $(document).ready(function(){
                   $(".hellofade").css({'display': 'none'});
                  $(".qdialogpage").css({'display': 'none'});
                    $(".qdialogpage").css({'display': 'none'});
-               $(".main").css({'display': 'none'});
+               $(".main").css({'display': 'none',
+               'background':'rgba(0,0,0,0.0)'});
                       $(".pong").css({'display': 'block'});
                         $(".pongheader").css({'display': 'block'});
                        $(".toggle7").css({'display': 'none'});
@@ -12398,10 +12398,11 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id6").click(function(){
-          $(".hellouser").css({'display':'none'});
+          $(".hellouser").css({'display':'block'});
           $(".hellofade").css({'display': 'none'});
            $(".qdialogpage").css({'display': 'block','pointer-events':'all'});
-           $(".q").css({'animation': 'slide-top 1000s','opacity':'100','pointer-events':'all'});
+           $(".q").css({'animation': 'slide-top 1000s','opacity':'100','pointer-events':'all','display':'block'});
+           
              $(".main").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(6px)',
@@ -12471,12 +12472,11 @@ $(document).ready(function(){
         $(".youtubebackground").css({'display': 'none'});
         $(".helloc").css({'display': 'none'});
        
-        $(".hellofade").css({'display': 'block'});
-        $(".qdialogpage").css({'display': 'block','pointer-events':'none'});
-        $(".q").css({'display': 'block','opacity':'0','pointer-events':'none'});
+        $(".hellofade").css({'display': 'none'});
+        $(".qdialogpage").css({'display': 'none','pointer-events':'none'});
+        $(".q").css({'display': 'none','opacity':'0','pointer-events':'none'});
         $(".main").css({'backdrop-filter': 'blur(0px)',
-               '-webkit-backdrop-filter': 'blur(0px)',
-               'background':'rgba(0,0,0,0.5)'});
+               '-webkit-backdrop-filter': 'blur(0px)' ,'background':'rgba(0,0,0,0.5)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(0px)',
                '-webkit-backdrop-filter': 'blur(0px)',
                'background':'rgba(0,0,0,0.5)'});
