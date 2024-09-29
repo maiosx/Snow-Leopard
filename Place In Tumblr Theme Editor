@@ -12400,8 +12400,7 @@ $(document).ready(function(){
            $(".qdialogpage").css({'display': 'block','pointer-events':'all'});
            $(".q").css({'animation': 'slide-top 1000s','opacity':'100','pointer-events':'all'});
              $(".main").css({'backdrop-filter': 'blur(6px)',
-               '-webkit-backdrop-filter': 'blur(6px)',
-               'background':'rgba(0,0,0,0.0)'});
+               '-webkit-backdrop-filter': 'blur(6px)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
                'background':'rgba(0,0,0,0.0)'});
@@ -12435,8 +12434,7 @@ $(document).ready(function(){
            $(".qdialogpage").css({'display': 'none','pointer-events':'none'});
            $(".q").css({'animation': 'slide-top 1000s','opacity':'100','pointer-events':'all'});
              $(".main").css({'backdrop-filter': 'blur(6px)',
-               '-webkit-backdrop-filter': 'blur(6px)',
-               'background':'rgba(0,0,0,0.0)'});
+               '-webkit-backdrop-filter': 'blur(6px)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
                'background':'rgba(0,0,0,0.0)'});
@@ -12474,8 +12472,7 @@ $(document).ready(function(){
         $(".qdialogpage").css({'display': 'block','pointer-events':'none'});
         $(".q").css({'display': 'block','opacity':'0','pointer-events':'none'});
         $(".main").css({'backdrop-filter': 'blur(0px)',
-               '-webkit-backdrop-filter': 'blur(0px)',
-               'background':'rgba(0,0,0,0.5)'});
+               '-webkit-backdrop-filter': 'blur(0px)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(0px)',
                '-webkit-backdrop-filter': 'blur(0px)',
                'background':'rgba(0,0,0,0.5)'});
