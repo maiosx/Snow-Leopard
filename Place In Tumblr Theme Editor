@@ -1632,7 +1632,6 @@ font-family: Quicksand;
     font-weight: bold;
     word-break: initial;
     background: rgba(0,0,0,0.0);
-    border-bottom:1px solid rgba(255,255,255,0.1);
     position: relative;
     z-index: 9;
     text-shadow: 0px 2px 4px rgb(0 0 0 / 40%);
