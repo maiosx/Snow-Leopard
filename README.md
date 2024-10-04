@@ -10,6 +10,7 @@ This is it. The Big Release. Demo at [maiosx.com](https://maiosx.com/) currently
 maiOSX has undergone rigorous development for many years and is now ready for the masses.
 
 [maiOSX Guide](https://maiosx.my.canva.site/)
+
 [Documentation](https://maiosx.gitbook.io/1.0)
 
 ❤️
