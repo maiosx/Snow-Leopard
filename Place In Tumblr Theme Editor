@@ -472,13 +472,15 @@ div.npf-link-block {
         display: block; 
         width: 100%;
         opacity: 100%;
+        margin-top: 30px;
         position: relative;
         display: inline-block; 
 }
     .miniboxtext a{
-        display: unset;
-        width: 100%; transition:300ms;
-        color: white;    padding:4px;
+        display: unset; 
+    margin-right: 10px;
+        width: 100%; transition:300ms;background:rgba(0,0,0,0.6); border-radius:15px;
+        color: white;    padding:10px;
         text-shadow: 0px 2px 4px rgb(0 0 0 / 90%);
         font-size: 17px;
         font-family: Quicksand;
@@ -486,10 +488,11 @@ div.npf-link-block {
         position: relative;
 }
 
-    .miniboxtext a:hover{
-        display: unset;
+    .miniboxtext a:hover{background:rgba(0,0,0,0.6); border-radius:15px;
+        display: unset; 
+    margin-right: 10px;
         width: 100%; transition:300ms;
-        color: white;    padding:4px;
+        color: white;    padding:10px;
          text-shadow: 0px 0px 10px #fff;
         font-size: 17px;
         font-family: Quicksand;
@@ -589,28 +592,12 @@ div.npf-link-block {
         opacity: 100%;
         position: relative;
         opacity: 100%;
-        /* margin-top: -36px; */
+     margin-top: 30px;
 }
 .search {margin-top:0px !important;}
-.miniboxcontainer {
-        height: auto;
-        border-radius: 15px;
-        width: 100%;
-        display: flex;
-        opacity: 100%;
-        position: relative;
-        opacity: 100%;
-}
 
-  .miniboxcontainer:hover {
-         height: auto;
-    border-radius: 15px;
-    width: 100%;
-    display: flex;
-    opacity: 100%;
-    position: relative;
-    opacity: 100%;
-}
+
+
 
 div.npf-link-block.no-poster .title {
     padding: 16px 12px 0;
@@ -1303,29 +1290,7 @@ max-height:100%;
 			margin-left: 20px;
         }
         
-        .searchprovider1 {    display: block;
-    height: 25px;
-    width: 25px;
-    position: fixed;
-    background: rgba(00,00,00,0.4);
-    left: 50%;     z-index: 3;
-    margin-left: -92px;
-    border-radius: 15px;
-    margin-top: 10px;
-    font-family: Quicksand;
-
-}
-.searchprovider2 {    display: block;
-    height: 25px;
-    width: 25px;     z-index: 3;
-    position: fixed;
-    background: rgba(65,90,255,0.4);
-    border-radius: 15px;
-    left: 50%;
-    margin-left: 67px;
-    margin-top: 10px;
-    font-family: Quicksand;
-}
+   
     .menusidebar {
     
     grid-area: 1 / 2 / 2 / 3;
@@ -6205,25 +6170,8 @@ transition: ease-out 4s;position:relative;z-index:9999;
         .about a:hover {font-family:'Quicksand'; font-size:20px;color:white;text-align:center; text-shadow: 0px 0px 10px #2D86F5;}
     .hellofade {display:none;}
 .romok {display:none;}
-    .miniboxcontainer {
-        height: auto;
-        border-radius: 15px;
-        width: 100%;
-        display: inline-block;
-        opacity: 100%;
-        position: relative;
-        opacity: 100%;
-}
 
-  .miniboxcontainer:hover {
-         height: auto;
-    border-radius: 15px;
-    width: 100%;
-    display: inline-block;
-    opacity: 100%;
-    position: relative;
-    opacity: 100%;
-}
+
 
     div.npf-link-block.no-poster .title {
     padding: 16px 12px 0;
@@ -6280,8 +6228,8 @@ transition: ease-out 4s;position:relative;z-index:9999;
     position: fixed; z-index:99 !important;}
     #app {transform:scale(0.5); margin-bottom:170px;}
      #app:hover {transform:scale(0.5); margin-bottom:170px;}
-    .searchfordesktop { height: 90px;  }
- .searchfordesktop:hover {  height:90px; }
+    .searchfordesktop { height: 90px;width:100%;  }
+ .searchfordesktop:hover {  height:90px;width:100%; }
     .msearchbox {display:none;}
      .searchcloudmobile {display:none;}
            ::-webkit-scrollbar {
@@ -6297,9 +6245,9 @@ transition: ease-out 4s;position:relative;z-index:9999;
    
    
         }
-     .searchcloud { margin-bottom: 400px;width:fit-content;max-width:100%; max-width:490px; background:rgba(0,0,0,.3);display:inline-flex; padding:10px; position:relative; margin-top:40px;border-radius:15px;z-index:99;height:fit-content; border:1px solid rgba(255,255,255,0.1);     overflow: hidden;  overflow-y:scroll; 
+     .searchcloud { margin-bottom: 400px;width:fit-content;max-width:100%; max-width:490px; background:rgba(0,0,0,.3);display:inline-flex; padding:10px; position:relative; margin-top:120px;border-radius:15px;z-index:99;height:fit-content; border:1px solid rgba(255,255,255,0.1);     overflow: hidden;  overflow-y:scroll; 
     overflow-x: scroll;}
-    .searchcloud:hover { margin-bottom: 400px;width:fit-content;max-width:100%; max-width:490px; background:rgba(0,0,0,.3);display:inline-flex; padding:10px; position:relative; margin-top:40px;border-radius:15px;z-index:99; height:fit-content; border:1px solid rgba(255,255,255,0.1);     overflow: hidden;  overflow-y:scroll; 
+    .searchcloud:hover { margin-bottom: 400px;width:fit-content;max-width:100%; max-width:490px; background:rgba(0,0,0,.3);display:inline-flex; padding:10px; position:relative; margin-top:120px;border-radius:15px;z-index:99; height:fit-content; border:1px solid rgba(255,255,255,0.1);     overflow: hidden;  overflow-y:scroll; 
     overflow-x: scroll;}
         .searchcloudtagsm a { margin-left: 5px;color:#c2c2c2;background:rgba(0,0,0,0.6);display:inline-flex; width:auto;border-radius:15px; padding:10px;font-family:'Quicksand';margin-bottom:10px;}
         .searchcloudtagsm a:hover { margin-left: 5px;color:#fff;background:rgba(0,0,0,0.6);display:inline-flex; width:auto;border-radius:15px; padding:10px;font-family:'Quicksand';margin-bottom:10px;}
@@ -6332,9 +6280,7 @@ transition: ease-out 4s;position:relative;z-index:9999;
         
     
     
-      .searchprovider1 {display:none;}
-    .searchprovider2 {display:none;}
-    
+  
     
    
      
@@ -7335,7 +7281,7 @@ margin-left:10px;
     .editorscontainer1:hover {display:block; position:fixed; width:100%;z-index:9999999; height:60px; top:0; left:0; pointer-events:all;}
     .content-warning-cover {margin-top: -55px; !important}
     
-    .calendarbar {display:inline-block; width:100%; background:rgba(0,0,0,0.2); border-radius:15px;padding:10px; color:white;margin-left:-10px;margin-top:40px;     
+    .calendarbar {display:inline-block; width:100%; background:rgba(0,0,0,0.2); border-radius:15px;padding:10px; color:white;margin-left:-11px;margin-top:40px;   border:1px solid rgba(255,255,255,0.1);  
     z-index: 99;
     position: -webkit-sticky;}
 .calendarbar a {color:deepskyblue;margin-right:10px;display:inline-flex;border-radius:15px;padding:10px; background:rgba(0,0,0,0.5);     margin-top: 10px;
@@ -7548,7 +7494,7 @@ margin-top: -258px;
        
 }
 
-     .grid-container {
+     .grid-container { 
   display: block;margin-top:0px !important;
   grid-template-columns: max-content;
   width: max-content; 
@@ -7561,11 +7507,11 @@ margin-top: -258px;
 }
    .searchfordesktop {height: 100px;
     /* background: rgba(0,0,0,0.1); */
-    display: inline-flex;
+   
     margin-top: -98px;}
     .searchfordesktop:hover {height: 100px;
     /* background: rgba(0,0,0,0.1); */
-    display: inline-flex;
+  
     margin-top: -98px;}
     .searchcloudmobile {display:none;}
             ::-webkit-scrollbar {
@@ -7618,8 +7564,7 @@ margin-top: -258px;
         .searchcloudtagsg  { margin-left:10px;height:fit-content; border-radius:15px; border:1px solid rgba(255,255,255,0.1);padding-left:10px;padding-right:10px;padding-top:10px;}
         
         
-    .searchprovider1 {display:none;}
-    .searchprovider2 {display:none;}
+  
     .minibox {margin-top:300px;}
      .toggleS {
     height: 62px;
@@ -7897,13 +7842,15 @@ margin-right:5px;
     display: inline-block;
 }
        .miniboxtext {
-        height: auto;
+
         display: block; margin-left:-5px;
         width: 100%;
         opacity: 100%;
         position: relative;
         display: inline-block; 
 }
+
+.searchd {display:block; width:100%;background:rgba(0,0,0,0.2);border-radius:15px; height:150px;padding:10px;        margin-left: -11px;        border: 1px solid rgba(255, 255, 255, 0.1);}
     .permalink.page .post-content div.npf_row .npf_col figure img:hover, .post div.npf_row .npf_col figure img:hover, body div.npf_row .npf_col figure img:hover {  
    position:relative;}
     
@@ -13179,10 +13126,10 @@ And the time is  <div class="datetime">
     <form action="/search" method="get" id="search-form">
     <input class="search3" type="text" placeholder="Search" name="q" value="{SearchQuery}" style="
         border-radius: 15px;
-    height: 45px;
+    height: 45px;     height: 40px !important;
     margin-left: -9px;
     border: 1px solid rgba(0,0,0,0.0);
-    width: 281px;
+    width: 50%;
     margin-top: -9px;
     background: rgba(0,0,0,0.8);
     text-align: center;
@@ -13200,56 +13147,7 @@ And the time is  <div class="datetime">
                   
 	
 	<div id="miniboxmobile" class="miniboxmobile">
-<div id="miniboxcontainer" class="miniboxcontainer">  
-<div id="m_icon" class="m_icon"> 
-        	<a href="{text:YourMainURL}/search/{text:Your1SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/bd7c56cae155d384f5c6dc800d4a2ab7/077fea18843021c3-a7/s2048x3072/8993cb3933c155a047557d8837d6a63216d47a17.gif" width="52" height="52" style="border-radius:150px; ">️</a></div>
-         	
-         	
-         	
-<div id="v_icon" class="v_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your2SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/cfd75c7cf673a58487869e07a23e1c40/077fea18843021c3-fc/s2048x3072/e6a921571249af760aed3ecd0e556543a70e15cc.gif" width="52" height="52" style="border-radius:150px;">️</a>
-         	    
-         	</div>
-
-<div id="p_icon" class="p_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your3SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/2b408c52e7c9dcfd6b500d87e7fbf4bf/077fea18843021c3-3e/s2048x3072/922dee052ff4aa606d131fe41ffca4b285cfabef.gif" width="52" height="52" style="border-radius:150px;">️</a></div>
-
-
-<div id="t_icon" class="t_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your4SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/1e2ad3c8eaf8d9ba4b0e3989f042f13e/077fea18843021c3-cf/s2048x3072/88e20ec228797a1ecfa8d38e54bdaf50052fb93c.gif" width="52" height="52" style="border-radius:150px;">️</a></div>
-
-
-
-<div id="me_icon" class="me_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your5SearchTag}">
-         	<img alt="" src="https://media.tenor.com/7NOP4gAqMuIAAAAM/eru-chitanda-hyouka.gif"
-         	width="52" height="52" style="border-radius:150px;">️</a></div>
-
-
-
-<div id="c_icon" class="c_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your6SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/d7b850511f3ec4f82afabc1b5b88434f/077fea18843021c3-af/s2048x3072/becb9a179c640daad3d3ebb01f17c5d686934555.gif"
-         	width="52" height="52" style="border-radius:150px;">️</a></div>
-
-
-
-<div id="pr_icon" class="pr_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your7SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/d33be150687247e10929be2620ac5c70/077fea18843021c3-d3/s2048x3072/c0c4f4f7bf9180aa410e434997183021daa2487a.gif"
-         	width="52" height="52" style="border-radius:150px;">️</a></div>
-
-
-<div id="g_icon" class="g_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your8SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/7bf1e6477632eb68397fc006e2b90c0f/077fea18843021c3-da/s2048x3072/f8555f8531080667982cd91634e38bfc797b46bd.gif"
-         	width="52" height="52" style="border-radius:150px;">️</a></div>
-
-</div></div>
+</div>
 	
 	
             </div>
@@ -13600,30 +13498,20 @@ And the time is  <div class="datetime">
 </div>
  <div id="search2pad" class="search2pad"></div>
             <div id="search2" class="search2">
-            <div id="searchprovider1" class="searchprovider1">
- <a href="https://www.perplexity.ai/"><img src="https://i.imgur.com/4372SKk.png" alt="Perplexity AI" style="width:50px;height:50px;"></a>            
-
-
-</div>
-
- <div id="searchprovider2" class="searchprovider2">
-  <a href="https://www.neeva.com"><img src="https://i.imgur.com/4372SKk.png" alt="Neeva" style="width:50px;height:50px;"></a>  
-
-
-</div>
+         
             
             
                     
 	
-	
+	<div id="searchd" class="searchd">
 <div id="searchfordesktop" class="searchfordesktop">
   {block:IfShowSearchBox}
     <form action="/search" method="get" id="search-form">
     <input class="search3" type="text" placeholder="Search" name="q" value="{SearchQuery}" style="
        border-radius: 150px;
     text-align: center; margin-top: 60px;
-
-    opacity: 90%; width: 186px;
+    height: 40px !important;
+    opacity: 90%; width: 50%;
     font-family: Quicksand; height: 30px;
        border: 1px solid rgba(255,255,255,0.6);
     box-shadow: 0 10px 35px 0px #4842f7;
@@ -13632,61 +13520,13 @@ And the time is  <div class="datetime">
     color: white;"  />
 	</form>
 	{/block:IfShowSearchBox}
-	</div>
+
            
             
             
          
-<div id="minibox" class="minibox">
-<div id="miniboxcontainer" class="miniboxcontainer">  
-<div id="m_icon" class="m_icon"> 
-        	<a href="{text:YourMainURL}/search/{text:Your1SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/bd7c56cae155d384f5c6dc800d4a2ab7/077fea18843021c3-a7/s2048x3072/8993cb3933c155a047557d8837d6a63216d47a17.gif" width="52" height="52" style="border-radius:150px; ">️</a></div>
-         	
-         	
-         	
-<div id="v_icon" class="v_icon">
-   	<a href="{text:YourMainURL}/search/youtube">
-         	<img alt="" src="https://64.media.tumblr.com/cfd75c7cf673a58487869e07a23e1c40/077fea18843021c3-fc/s2048x3072/e6a921571249af760aed3ecd0e556543a70e15cc.gif" width="52" height="52" style="border-radius:150px; ">️</a>
-         	    
-         	</div>
-
-<div id="p_icon" class="p_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your3SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/2b408c52e7c9dcfd6b500d87e7fbf4bf/077fea18843021c3-3e/s2048x3072/922dee052ff4aa606d131fe41ffca4b285cfabef.gif" width="52" height="52" style="border-radius:150px; ">️</a></div>
 
 
-<div id="t_icon" class="t_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your4SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/1e2ad3c8eaf8d9ba4b0e3989f042f13e/077fea18843021c3-cf/s2048x3072/88e20ec228797a1ecfa8d38e54bdaf50052fb93c.gif" width="52" height="52" style="border-radius:150px; ">️</a></div>
-
-
-
-<div id="me_icon" class="me_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your5SearchTag}">
-         	<img alt="" src="https://media.tenor.com/7NOP4gAqMuIAAAAM/eru-chitanda-hyouka.gif"
-         	width="52" height="52" style="border-radius:150px; ">️</a></div>
-
-
-
-<div id="c_icon" class="c_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your6SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/d7b850511f3ec4f82afabc1b5b88434f/077fea18843021c3-af/s2048x3072/becb9a179c640daad3d3ebb01f17c5d686934555.gif"
-         	width="52" height="52" style="border-radius:150px; ">️</a></div>
-
-
-
-<div id="pr_icon" class="pr_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your7SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/d33be150687247e10929be2620ac5c70/077fea18843021c3-d3/s2048x3072/c0c4f4f7bf9180aa410e434997183021daa2487a.gif"
-         	width="52" height="52" style="border-radius:150px; ">️</a></div>
-
-
-<div id="g_icon" class="g_icon">
-   	<a href="{text:YourMainURL}/search/{text:Your8SearchTag}">
-         	<img alt="" src="https://64.media.tumblr.com/7bf1e6477632eb68397fc006e2b90c0f/077fea18843021c3-da/s2048x3072/f8555f8531080667982cd91634e38bfc797b46bd.gif"
-         	width="52" height="52" style="border-radius:150px; ">️</a></div>
-</div>
 
 
 <div id="miniboxtext" class="miniboxtext">
@@ -13707,7 +13547,8 @@ And the time is  <div class="datetime">
 {text:Your8SearchTag}</a>
 
 
-</div> </div>
+ </div>	</div>
+ </div>
     <div id="calendarbar" class="calendarbar">
  
        <a href="https://www.tumblr.com/dashboard/following"  onclick="window.open('https://www.tumblr.com/dashboard/following', 
@@ -14516,17 +14357,9 @@ Unknown
 
 
 <div id="search" class="search">
-  <div id="searchprovider1" class="searchprovider1">
- <a href="https://www.perplexity.ai/"><img src="https://i.imgur.com/4372SKk.png" alt="Perplexity AI" style="width:50px;height:50px;"></a>            
 
 
-</div>
-
- <div id="searchprovider2" class="searchprovider2">
-  <a href="https://www.neeva.com"><img src="https://i.imgur.com/4372SKk.png" alt="Neeva" style="width:50px;height:50px;"></a>  
-
-
-</div>
+ 
 
 
     {block:IfShowSearchBox}
