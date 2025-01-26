@@ -17,7 +17,15 @@
           for portrait backgrounds enable gifbg as well//  
         -->            
         
-        
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K7CH6286HW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K7CH6286HW');
+</script>
  
         <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css"/>
@@ -12223,7 +12231,7 @@ $(document).ready(function(){
                                $(".cornerbutton3").css({'display': 'none'});
                       $(".cornerbutton2").css({'display': 'none'});
                        $(".iconsholder").css({'display': 'none'}); 
-                     $('html,body').animate({scrollTop: document.body.scrollHeight},"fast");
+                     $('html,body').animate({scrollTop: document.body.scrollHeight},"slow");
                        $(".toggle8").css({'display': 'none'});  
                       
      });
@@ -12266,7 +12274,7 @@ $(document).ready(function(){
         $(".youtubebackground").css({'display': 'block'});
        $(".capcut1").css({'display': 'block'});
                             $(".capcutcloud").css({'display': 'block'});
-               $('html,body').animate({scrollTop: document.body.scrollHeight},"fast"); 
+               $('html,body').animate({scrollTop: document.body.scrollHeight},"slow"); 
   
             
      });
@@ -12393,7 +12401,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#btn_id8").click(function(){  
           $(".hellouser").css({'display':'none'});
-            $(".hellob").css({'display':'block','animation':'fadeInX 900000000s'});
+            $(".hellob").css({'display':'none','animation':'fadeInX 900000000s'});
           $(".hellofade").css({'display': 'block','animation':'none'
           });
            $(".qdialogpage").css({'display': 'none','pointer-events':'none'});
