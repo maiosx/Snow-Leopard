@@ -12427,6 +12427,7 @@ $(document).ready(function(){
             $(".hellob").css({'display':'none','animation':'fadeInX 900000000s'});
           $(".hellofade").css({'display': 'block','animation':'none'
           });
+           $("html, body").animate({ scrollTop: 0 }, "fast");
            $(".qdialogpage").css({'display': 'none','pointer-events':'none'});
            $(".q").css({'animation': 'slide-top 1000s','opacity':'100','pointer-events':'all'});
              $(".main").css({'backdrop-filter': 'blur(6px)',
