@@ -12414,6 +12414,7 @@ $(document).ready(function(){
                             $(".capcutcloud").css({'display': 'none'});
                                $(".cornerbutton3").css({'display': 'none'});
                       $(".cornerbutton2").css({'display': 'none'});
+                       $("html, body").animate({ scrollTop: 0 }, "fast");
 
      });
 });  
