@@ -7189,17 +7189,17 @@ margin-left:10px;
     
           .resizer6 {  background:url('https://i.imgur.com/OO0FUf0.png'); 
   display:block;
-    backdrop-filter: blur(5px);
+   
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
-    -webkit-backdrop-filter: blur(5px);
+  
     width: 10px;
     background-size: contain;
     height: 30px;
     width:30px;
    border:0px solid #000;
-    right: 0;
+    right: 38px;
     z-index: 9999;
-       top: 3%;
+       top: -58px;
     position: relative;
     margin-right: 50px;
     
@@ -7207,17 +7207,17 @@ margin-left:10px;
     
         .resizer8 {  background:url('https://i.imgur.com/gkoj4nq.png'); 
   display:block;
-    backdrop-filter: blur(5px);
+
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
-    -webkit-backdrop-filter: blur(5px);
+
     width: 10px;
     background-size: contain;
     height: 30px;
     width:30px;
    border:0px solid #000;
-    right: 0;
+    right: 86px;
     z-index: 9999;
-       top: 3%;
+       top: -58px;
     position: relative;
         margin-right: -36px;
     margin-top: -31px;
@@ -7227,17 +7227,17 @@ margin-left:10px;
     
      .resizer7 {  background:url('https://i.imgur.com/00eqdQH.png'); 
   display:block;
-    backdrop-filter: blur(5px);
+   
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
-    -webkit-backdrop-filter: blur(5px);
+ 
     width: 10px;
     background-size: contain;
     height: 30px;
     width:30px;
    border:0px solid #000;
-    right: 0;
+    right: 134px;
     z-index: 9999;
-       top: 84.5%;
+       top: -88px;
     position: relative;
     margin-right: 10px;
     
@@ -12378,9 +12378,9 @@ $(document).ready(function(){
                         $(".toggle6").css({'display': 'block'});
                     $(".toggle5").css({'display': 'block'});
                   $(".toggle4").css({'display': 'block'});
-                       $(".cornerbutton3").css({'display': 'none'});
-                      $(".cornerbutton2").css({'display': 'none'});
-                    $(".toggle8").css({'display': 'none'});  
+                       $(".cornerbutton3").css({'display': 'block'});
+                      $(".cornerbutton2").css({'display': 'block'});
+                    $(".toggle8").css({'display': 'block'});  
                    $(".main").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(6px)',
@@ -12412,8 +12412,8 @@ $(document).ready(function(){
         $(".helloc").css({'display': 'none','opacity':'0'});
       $(".capcut1").css({'display': 'none'});
                             $(".capcutcloud").css({'display': 'none'});
-                               $(".cornerbutton3").css({'display': 'none'});
-                      $(".cornerbutton2").css({'display': 'none'});
+                               $(".cornerbutton3").css({'display': 'block'});
+                      $(".cornerbutton2").css({'display': 'block'});
                        $("html, body").animate({ scrollTop: 0 }, "fast");
 
      });
@@ -12452,8 +12452,8 @@ $(document).ready(function(){
         $(".helloc").css({'display': 'block','opacity':'0'});
      $(".capcut1").css({'display': 'none'});
                             $(".capcutcloud").css({'display': 'none'});
-                               $(".cornerbutton3").css({'display': 'none'});
-                      $(".cornerbutton2").css({'display': 'none'});
+                               $(".cornerbutton3").css({'display': 'block'});
+                      $(".cornerbutton2").css({'display': 'block'});
      });
 });  
 </script>
@@ -13898,9 +13898,7 @@ MMXVII-MMXXIV
 	    <div id="hellouser" class="hellouser">
         	   </div>
   <div id="sidebuttons" class="sidebuttons">
-      <button type="button" id="btn_id6" class="resizer6"></button>
-       <button type="button" id="btn_id8" class="resizer8"></button>
-          <button type="button" id="btn_id7" class="resizer7"></button>
+  
          <div id="class1" class="class1"></div>
          <div id="class2" class="class2"></div>    
          <div id="class3" class="class3"></div>
@@ -15136,7 +15134,7 @@ Your browser does not support inline frames or is currently configured not to di
     height: 30px;
     margin-right: -75px;
     margin-bottom: 27px;
-    width: 62px;
+    width: 62px; 
     border: 1px solid rgba(255,255,255,0.1);
     background: rgba(0,0,0,0.2);
     color: white;
@@ -15169,8 +15167,11 @@ Your browser does not support inline frames or is currently configured not to di
     margin-left: 7px !important;
     margin-top: 2px;
     display: block;
-}
+} 
 ">Coinbase</a>
+<button type="button" id="btn_id6" class="resizer6"></button>
+<button type="button" id="btn_id8" class="resizer8"></button>
+<button type="button" id="btn_id7" class="resizer7"></button>
  </div>
  
     </body>
