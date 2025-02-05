@@ -12364,12 +12364,24 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id6").click(function(){
-          $(".hellouser").css({'display':'block'});
-          $(".hellofade").css({'display': 'none'});
-           $(".qdialogpage").css({'display': 'block','pointer-events':'all'});
-           $(".q").css({'animation': 'slide-top 1000s','opacity':'100','pointer-events':'all','display':'block'});
-           
-             $(".main").css({'backdrop-filter': 'blur(6px)',
+     $(".helloc").css({'display': 'block','opacity':'0'});
+             $(".qdialogpage").css({'display': 'block'});
+            $(".toggle8").css({'display': 'block'}); 
+            $(".hellofade").css({'display': 'none'});
+                $(".hellob").css({'display': 'none'});
+                    $(".hellouser").css({'display': 'none'});
+               $(".qdialogpage").css({'display': 'none'});
+                     $(".pong").css({'display': 'none'});
+                        $(".pongheader").css({'display': 'none'});
+                          $(".main").css({'display': 'block','left': '0%', 'width' : '100%', {block:IfMainColorOn}'background':'{color:MainColor}'{/block:IfMainColorOn}});
+                              $(".toggle7").css({'display': 'block'});
+                        $(".toggle6").css({'display': 'block'});
+                    $(".toggle5").css({'display': 'block'});
+                  $(".toggle4").css({'display': 'block'});
+                       $(".cornerbutton3").css({'display': 'none'});
+                      $(".cornerbutton2").css({'display': 'none'});
+                    $(".toggle8").css({'display': 'none'});  
+                   $(".main").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)'});
         $(".searchcontainer2").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
@@ -12380,19 +12392,29 @@ $(document).ready(function(){
         $(".icon-bar").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
                'background':'rgba(0,0,0,0.0)'});
-                $(".hellob").css({'display': 'none'}); 
+              $(".iconsholder").css({'display': 'none'}); 
         $(".youtubeeffect").css({'display': 'block'}); 
         $(".orbstop").css({'display': 'block'}); 
-         $(".hellob").css({'display': 'block'}); 
-           {block:IfShowYouTubeBackground}
-        $(".youtubebackground").css({'block': 'none','opacity':'100'});
-           $(".hellob").css({'display': 'block','z-index':'99'}); 
-           {/block:IfShowYouTubeBackground}
-        $(".helloc").css({'display': 'block','opacity':'0'});
+        $(".youtubebackground").css({'display': 'block'});
+       $(".capcut1").css({'display': 'block'});
+                            $(".capcutcloud").css({'display': 'block'});
+
+  $(".hellouser").css({'display':'none'});
+          $(".hellofade").css({'display': 'none'});
+           $(".qdialogpage").css({'display': 'block','pointer-events':'all'});
+           $(".q").css({'animation': 'slide-top 1000s','opacity':'100','pointer-events':'all','display':'block'});
+           
+             $(".main").css({'backdrop-filter': 'blur(6px)',
+               '-webkit-backdrop-filter': 'blur(6px)'});
+      
+         $(".hellob").css({'display': 'none'}); 
+          
+        $(".helloc").css({'display': 'none','opacity':'0'});
       $(".capcut1").css({'display': 'none'});
                             $(".capcutcloud").css({'display': 'none'});
                                $(".cornerbutton3").css({'display': 'none'});
                       $(".cornerbutton2").css({'display': 'none'});
+
      });
 });  
 </script>
