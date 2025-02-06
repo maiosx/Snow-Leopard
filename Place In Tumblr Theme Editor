@@ -12505,9 +12505,7 @@ $(document).ready(function(){
         $(".q").css({'display': 'none','opacity':'0','pointer-events':'none'});
         $(".main").css({'backdrop-filter': 'blur(0px)',
                '-webkit-backdrop-filter': 'blur(0px)' ,'background':'rgba(0,0,0,0.5)'});
-        $(".searchcontainer2").css({'backdrop-filter': 'blur(0px)',
-               '-webkit-backdrop-filter': 'blur(0px)',
-               'background':'rgba(0,0,0,0.5)'});
+      
         $(".sidebar").css({'backdrop-filter': 'blur(0px)',
                '-webkit-backdrop-filter': 'blur(0px)',
                'background':'rgba(0,0,0,0.8)'});
