@@ -7113,7 +7113,7 @@ margin-left:10px;
     position: fixed;
     }
     
-     .resizer3:hover {     background: rgba(255,255,255,0.9);
+     .resizer3:hover {     background: rgba(255,255,255,0.9) !important;
     border: 0px solid #000;
     backdrop-filter: blur(5px);
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
@@ -7225,7 +7225,7 @@ margin-left:10px;
     
     
     
-     .resizer7 {  background:url('https://i.imgur.com/00eqdQH.png'); 
+     .resizer7 {  background:url('https://i.imgur.com/itMD15t.png'); 
   display:block;
    
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
@@ -12284,6 +12284,21 @@ $(document).ready(function(){
    <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id3").click(function(){
+         
+                $(".hellob").css({'display': 'none'});
+                   $(".cornerbutton3").css({'display': 'none'});
+                      $(".cornerbutton2").css({'display': 'none'});
+                         $(".capcut1").css({'display': 'none'});
+                            $(".capcutcloud").css({'display': 'none'});
+                $(".hellouser").css({'display': 'none'});
+                  $(".hellofade").css({'display': 'none'});
+                 $(".qdialogpage").css({'display': 'none'});
+                   $(".qdialogpage").css({'display': 'none'});
+                      $(".iconsholder").css({'display': 'none'});
+                $(".toggle8").css({'display': 'none'});  
+                    $(".helloc").css({'display': 'none'});
+                
+          $(".resizer3").css({'background': 'rgba(0,0,0,0.0)'});
                   $(".cornerbutton3").css({'display': 'block'});
                       $(".cornerbutton2").css({'display': 'block'});
                 $(".hellofade").css({'display': 'none'});
@@ -12365,6 +12380,8 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id6").click(function(){
+        
+        $(".resizer3").css({'background': 'rgba(55,157,255,1.0)'});
      $(".helloc").css({'display': 'block','opacity':'0'});
              $(".qdialogpage").css({'display': 'block'});
             $(".toggle8").css({'display': 'block'}); 
@@ -12424,6 +12441,7 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id8").click(function(){  
+           $(".resizer3").css({'background': 'rgba(55,157,255,1.0)'});
           $(".hellouser").css({'display':'none'});
             $(".hellob").css({'display':'none','animation':'fadeInX 900000000s'});
           $(".hellofade").css({'display': 'block','animation':'none'
