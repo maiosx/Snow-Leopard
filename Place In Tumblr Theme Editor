@@ -12232,7 +12232,7 @@ $(document).ready(function(){
         $(".icon-bar").css({'backdrop-filter': 'blur(6px)',
                '-webkit-backdrop-filter': 'blur(6px)',
                'background':'rgba(0,0,0,0.0)'});
-             
+               $(".resizer3").css({'background': 'rgba(0,0,0,0.0)'});
         $(".youtubeeffect").css({'display': 'block'}); 
         $(".orbstop").css({'display': 'block'}); 
         $(".youtubebackground").css({'display': 'block'});
@@ -12251,6 +12251,7 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id2").click(function(){
+          $(".resizer3").css({'background': 'rgba(0,0,0,0.0)'});
           $(".helloc").css({'display': 'block','opacity':'0'});
              $(".qdialogpage").css({'display': 'block'});
             $(".toggle8").css({'display': 'block'}); 
@@ -12371,7 +12372,7 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){ 
     $("#btn_id5").click(function(){
-            
+               $(".resizer3").css({'background': 'rgba(0,0,0,0.0)'});
                 $(".hellob").css({'display': 'none'});
                    $(".cornerbutton3").css({'display': 'none'});
                       $(".cornerbutton2").css({'display': 'none'});
@@ -13786,7 +13787,7 @@ MMXVII-MMXXIV
 </div><br>
 <a href="https://apps.apple.com/us/app-bundle/fizzy-water-bundle/id1601247237" style="color:white;">The Fizzy Water Bundle</a> ︱
 <a href="https://chrome.google.com/webstore/detail/animation-policy/ncigbofjfbodhkaffojakplpmnleeoee?hl=en" style="color:white;">Animation Policy</a> ︱
-<a href="https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk" style="color:white;">Webtime Tracker</a> ︱
+<a href="https://chromewebstore.google.com/detail/picture-in-picture-floati/adnielbhikcbmegcfampbclagcacboff" style="color:white;">Floating Player</a> ︱
 <a href="https://chromewebstore.google.com/detail/tumblr-%E2%80%93-post-to-tumblr/ffnhmkgpdmkajhomnckhabkfeakhcamm" style="color:white;">Tumblr Extension</a> ︱
 <a href="https://chrome.google.com/webstore/detail/new-address-bar/pjpbjboafkcbfpgiodfpfbehkjobdppe" style="color:white;">New Addressbar</a> ︱
 <a href="https://chrome.google.com/webstore/detail/leftside-back/gdcddfacdedphcamippdkojfngoakglg" style="color:white;">Leftside Back Button</a>
