@@ -5094,7 +5094,7 @@ font-family: Spartan;
     left: 0;
     top: 0;
     transform: scale(.2);
-    background: url(https://i.imgur.com/i30cyuF.jpeg);
+    background: url(https://i.imgur.com/pWYALJT.jpeg);
     border-radius: 50px;
     box-shadow: 0px 1px 10px 1px rgb(0,0,0,30%);
     height: 1000px;
@@ -5105,12 +5105,12 @@ font-family: Spartan;
     color: white;
     position: absolute;
     background-size: contain;
-    width: 1000px;
+    width: 751px;
     color: white;
     font-family: Quicksand;
     font-size: 20px;
     margin-top: 499px;
-    margin-left: -352px;
+    margin-left: -256px;
    }
     
     
@@ -5121,7 +5121,7 @@ font-family: Spartan;
          .eventcover3:hover {left: 0;
     top: 0;
         transform: scale(.50);
-     background: url(https://i.imgur.com/i30cyuF.jpeg);
+     background: url(https://i.imgur.com/pWYALJT.jpeg);
     border-radius:50px;
   
      box-shadow: 0px 1px 10px 1px rgb(0,0,0,30%);
@@ -5132,7 +5132,7 @@ font-family: Spartan;
     background-size:contain;
     display: inline-block;
      z-index: 999;
-    width: 1000px;
+    width: 751px;
     color:white;
   margin-top:344px;
     margin-left:-230px;
@@ -14539,12 +14539,12 @@ id="youtube-audio">
     
           <div id="widget6" class="widget6">
                 <div id="widget6text" class="widget6text">
-                     Featured Posts
+                     Featured
                  </div>
                 <div id="widget6subtext" class="widget6subtext">
              <a href="https://www.apple.com/apple-events/">Apple Events</a>
               <a href="https://www.tumblr.com/mega-editor/published/zenlossq/">MPV</a>
-                  <a href="https://drive.google.com/drive/folders/0BwKN3_36F61kSUNncndxQWZmdFk?resourcekey=0-1VRJGcOtByElNEdDONto8w&usp=sharing">GDrive </a>
+                  <a href="https://soundescape.io/">Soundescape </a>
                   <a href="https://maiosx.tumblr.com/post/705208902559662080/announcements">★</a>
                 </div> 
          </div> 
