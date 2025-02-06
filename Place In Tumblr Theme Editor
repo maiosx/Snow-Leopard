@@ -7420,6 +7420,17 @@ margin-left:10px;
     justify-items: center;
 }
 
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
 
   .toggleS:hover {
   height: 62px;
@@ -12381,7 +12392,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#btn_id6").click(function(){
         
-        $(".resizer3").css({'background': 'rgba(55,157,255,1.0)'});
+        $(".resizer3").css({'background': 'linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab)', 'animation':'gradient 6s ease infinite', 'background-size': '400% 400%'});
      $(".helloc").css({'display': 'block','opacity':'0'});
              $(".qdialogpage").css({'display': 'block'});
             $(".toggle8").css({'display': 'block'}); 
@@ -12441,9 +12452,10 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id8").click(function(){  
-           $(".resizer3").css({'background': 'rgba(55,157,255,1.0)'});
+           $(".resizer3").css({'background': 'linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab)', 'animation':'gradient 6s ease infinite', 'background-size': '400% 400%'});
           $(".hellouser").css({'display':'none'});
             $(".hellob").css({'display':'none','animation':'fadeInX 900000000s'});
+              $(".iconsholder").css({'display': 'none'}); 
           $(".hellofade").css({'display': 'block','animation':'none'
           });
            $("html, body").animate({ scrollTop: 0 }, "fast");
