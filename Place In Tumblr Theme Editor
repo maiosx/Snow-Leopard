@@ -16,6 +16,16 @@
                         
           for portrait backgrounds enable gifbg as well//  
         -->            
+        
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K7CH6286HW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K7CH6286HW');
+</script>
  
         <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css"/>
@@ -2036,7 +2046,7 @@ border:1px solid rgba(255,255,255,0.4); padding-bottom:13px;
     border-radius: 15px; }
 
  .textsm3 {             /* margin-left: 12px; */
-    
+        line-height: normal;
     position: absolute;
     right: 0;
     font-size: 14px;
@@ -2051,7 +2061,7 @@ border:1px solid rgba(255,255,255,0.4); padding-bottom:13px;
     padding-top: 20px;
     padding-bottom: 20px;
     width: 106px;
-    margin-top: -175px;
+    margin-top: -125px;
     margin-bottom: 0px;
     height: auto;
     border-radius: 15px;}
