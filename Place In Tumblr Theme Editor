@@ -16,16 +16,6 @@
                         
           for portrait backgrounds enable gifbg as well//  
         -->            
-        
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K7CH6286HW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-K7CH6286HW');
-</script>
  
         <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css"/>
@@ -2034,7 +2024,8 @@ border:1px solid rgba(255,255,255,0.4); padding-bottom:13px;
     background: rgba(0,0,0,0.0);
     z-index: 0;
     max-height: 123px;
-    margin-top: 177px;
+    margin-top: 122px;
+        line-height: 60%;
     margin-left: 0px;
     max-height: 203px;
     position: relative;
@@ -12393,7 +12384,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#btn_id6").click(function(){
         
-        $(".resizer3").css({'background': 'linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab)', 'animation':'gradient 6s ease infinite', 'background-size': '400% 400%'});
+        $(".resizer3").css({'background': 'rgba(0,150,255,1.0)'});
      $(".helloc").css({'display': 'block','opacity':'0'});
              $(".qdialogpage").css({'display': 'block'});
             $(".toggle8").css({'display': 'block'}); 
@@ -12453,7 +12444,7 @@ $(document).ready(function(){
  <script type="text/javascript">
 $(document).ready(function(){
     $("#btn_id8").click(function(){  
-           $(".resizer3").css({'background': 'linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab)', 'animation':'gradient 6s ease infinite', 'background-size': '400% 400%'});
+            $(".resizer3").css({'background': 'rgba(0,150,255,1.0)'});
           $(".hellouser").css({'display':'none'});
             $(".hellob").css({'display':'none','animation':'fadeInX 900000000s'});
               $(".iconsholder").css({'display': 'none'}); 
@@ -13775,13 +13766,17 @@ And the time is  <div class="datetime">
     </div>
     <div id="bottomsearchnava" class="bottomsearchnava">
     <div id="bottomsearchnav" class="bottomsearchnav">
-MMXVII-MMXXIV
+MMXIV-MMXXV
 
 <div id="reapersmenu" class="reapersmenu">
+
+<a href="https://ioxr.wordpress.com/" target="_blank">IOXR</a>
 <a href="https://undefineableai.tumblr.com" target="_blank">Wave OS</a>
 
 <a href="https://ufointhesky.tumblr.com/" target="_blank">Reaper OS</a>
    <a href="https://maiosx.tumblr.com" target="_blank">maiOSX</a>
+   
+    <a href="https://medium.com/@zenlossq" target="_blank">ZenlossQ</a>
 </div><br>
 <a href="https://apps.apple.com/us/app-bundle/fizzy-water-bundle/id1601247237" style="color:white;">The Fizzy Water Bundle</a> ︱
 <a href="https://chrome.google.com/webstore/detail/animation-policy/ncigbofjfbodhkaffojakplpmnleeoee?hl=en" style="color:white;">Animation Policy</a> ︱
@@ -14957,9 +14952,22 @@ Your browser does not support inline frames or is currently configured not to di
 </div>   
 
 
+
+
+
 <div id="icon3" class="icon">
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL1}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL3}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.perplexity.ai/{/block:IfDockDefaultsOn}', 'newwindow3', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.kFNcaIFn-0DomaI3QdG84QHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL3Image}{block:IfDockDefaultsOff}">️</a> 
 </div>   
+
+         <div id="icon21" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL21}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL21}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://blackjackosx.netlify.app/{/block:IfDockDefaultsOn}', 'newwindow21', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.j8rLjcg_AJJxmtBRIoy0NQHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL21Image}{block:IfDockDefaultsOff}">️</a> 
+</div>          
+
+
+         <div id="icon22" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL22}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL22}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.icloud.com/invites/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://www.icloud.com/system/icloud.com/2507Hotfix36/a66757330169f349730c036bc7596781.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL22Image}{block:IfDockDefaultsOff}">️</a> 
+</div>     
+
 
 <div id="icon4" class="icon">
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com{/block:IfDockDefaultsOn}', 'newwindow4', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://media.giphy.com/media/LqCEcO42w8F2n1fZ7S/giphy.gif{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL4Image}{block:IfDockDefaultsOff}">️</a> 
@@ -15038,7 +15046,9 @@ Your browser does not support inline frames or is currently configured not to di
    <div id="icon20" class="icon">
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL20}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL20}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://emulatoronline.com/{/block:IfDockDefaultsOn}', 'newwindow20', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://64.media.tumblr.com/ff69d4872ee2c30413f5668975bcb781/ee87c27a2bb1c89c-d0/s1280x1920/0c585e80acb9febf1384b6f67c8bb90de0197ad7.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL20Image}{block:IfDockDefaultsOff}">️</a> 
 </div>              
-                         
+        
+       
+                           
                            
                            
                            
