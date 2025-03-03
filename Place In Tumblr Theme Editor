@@ -14959,6 +14959,11 @@ Your browser does not support inline frames or is currently configured not to di
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL1}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL3}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.perplexity.ai/{/block:IfDockDefaultsOn}', 'newwindow3', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.kFNcaIFn-0DomaI3QdG84QHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL3Image}{block:IfDockDefaultsOff}">️</a> 
 </div>   
 
+        
+                  <div id="icon24" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://grok.com/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh04nvoh53I7YesJLPGDKnY5XIzH03sWbyGQ&s{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL24Image}{block:IfDockDefaultsOff}">️</a> 
+</div>     
+
          <div id="icon21" class="icon">
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL21}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL21}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://blackjackosx.netlify.app/{/block:IfDockDefaultsOn}', 'newwindow21', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.j8rLjcg_AJJxmtBRIoy0NQHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL21Image}{block:IfDockDefaultsOff}">️</a> 
 </div>          
@@ -14973,6 +14978,10 @@ Your browser does not support inline frames or is currently configured not to di
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL4}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com{/block:IfDockDefaultsOn}', 'newwindow4', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://media.giphy.com/media/LqCEcO42w8F2n1fZ7S/giphy.gif{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL4Image}{block:IfDockDefaultsOff}">️</a> 
 </div>
          
+         
+                  <div id="icon23" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL23}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL23}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.notion.so/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.3B_iHmbzO0rgNWvbQFmzIwHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL23Image}{block:IfDockDefaultsOff}">️</a> 
+</div>     
          
          
 <div id="icon5" class="icon">
@@ -15025,7 +15034,7 @@ Your browser does not support inline frames or is currently configured not to di
 </div>  
 
 <div id="icon16" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL16}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL16}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://twitter.com/mery__S2_{/block:IfDockDefaultsOn}', 'newwindow16', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/rR2bIgc.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL16Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL16}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL16}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://watcher.guru/{/block:IfDockDefaultsOn}', 'newwindow16', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://watcher.guru/assets/img/branding/logo_circle/logo.svg?h=5404e978d75739446190437c186347b1{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL16Image}{block:IfDockDefaultsOff}">️</a> 
 </div>  
 
 <div id="icon17" class="icon">
@@ -15046,6 +15055,8 @@ Your browser does not support inline frames or is currently configured not to di
    <div id="icon20" class="icon">
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL20}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL20}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://emulatoronline.com/{/block:IfDockDefaultsOn}', 'newwindow20', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://64.media.tumblr.com/ff69d4872ee2c30413f5668975bcb781/ee87c27a2bb1c89c-d0/s1280x1920/0c585e80acb9febf1384b6f67c8bb90de0197ad7.jpg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL20Image}{block:IfDockDefaultsOff}">️</a> 
 </div>              
+        
+       
         
        
                            
