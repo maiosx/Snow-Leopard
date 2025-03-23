@@ -2,8 +2,6 @@
     <head> 
         <!--             
                Snow Leopard File Explorer for Tumblr
-        
-        // for youtube effects toggle blur on main or rewrite the code so that posts are above the effect using the z-index //  
         -->            
  
         <link href="https://fonts.googleapis.com/css2?family=Teko&display=swap" rel="stylesheet">
@@ -117,7 +115,6 @@
         <meta name="if:Photoset Only First" content="1">
         <meta name="if:Colorize Social Links" content="0"> 
         <meta name="if:Rounded Corners" content="1">
-        
         {/block:Hidden}
         <!--[if lt IE 9]><script src="//static.tumblr.com/hriofhd/Qj0m8pn7q/html5shiv.js"></script><![endif]-->
         {block:IfShowTitle}<link href="//fonts.googleapis.com/css?family={select:Title Font}" rel="stylesheet" type="text/css">{/block:IfShowTitle}
@@ -130,7 +127,6 @@
         <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap" rel="stylesheet">
         
         <style type="text/css"> 
-        
         .newdockbg
 {width:90%;background:deepskyblue;bottom:0px;position:fixed;height:110px;left:5%;}
 .iconsholder
