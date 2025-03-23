@@ -6,7 +6,7 @@ Chromium Browser on a 1920x1080 capable PC or Mac with at least 2GB of VRAM
 Chrome on Android with a modern Snapdragon chip.
 The Mobile Website only works on iPads as the Webkit Renderer on iOS is not sufficient to run the website
 
-This is it. The Big Release. Demo at [maiosx.com](https://zenlossq.tumblr.com/) currently.
+This is it. The Big Release. [Demo](https://zenlossq.tumblr.com/) currently.
 
 maiOSX Snow Leopard has undergone rigorous development for many years and is now ready for the masses.
 
