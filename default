@@ -7123,7 +7123,7 @@ margin-left:10px;
     }
     
         .resizer8 {  background:url('https://i.imgur.com/gkoj4nq.png'); 
-  display:block;
+  display:none;
 
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
 
@@ -7151,10 +7151,10 @@ margin-left:10px;
     background-size: contain;
     height: 30px;
     width:30px;
-   border:0px solid #000;
-    right: 134px;
+    border:0px solid #000;
+    right: 88px;
     z-index: 9999;
-       top: -88px;
+    top: -88px;
     position: relative;
     margin-right: 10px;
     
@@ -7206,7 +7206,7 @@ margin-left:10px;
     .editorscontainer1:hover {display:block; position:fixed; width:100%;z-index:9999999; height:60px; top:0; left:0; pointer-events:all;}
     .content-warning-cover {margin-top: -55px; !important}
     
-    .calendarbar {display:inline-block; width:100%; background:rgba(0,0,0,0.2); border-radius:15px;padding:10px; color:white;margin-left:-11px;margin-top:40px;   border:1px solid rgba(255,255,255,0.1);  
+    .calendarbar {display:none; width:100%; background:rgba(0,0,0,0.2); border-radius:15px;padding:10px; color:white;margin-left:-11px;margin-top:40px;   border:1px solid rgba(255,255,255,0.1);  
     z-index: 99;
     position: -webkit-sticky;}
 .calendarbar a {color:deepskyblue;margin-right:10px;display:inline-flex;border-radius:15px;padding:10px; background:rgba(0,0,0,0.5);     margin-top: 10px;
@@ -7243,7 +7243,7 @@ margin-left:10px;
     display: block;
 }
     
-    .reapersmenu {display:block; width:100% height:40px; margin-left:10px;margin-right:10px;margin-top:20px; color:white;
+    .reapersmenu {display:none; width:100% height:40px; margin-left:10px;margin-right:10px;margin-top:20px; color:white;
     }
     .reapersmenu a {padding:5px; padding-right:10px;padding-left:10px;border:1px solid rgba(255,255,255,0.2); color:white; border-radius:15px;margin-right:10px;}
     .topsearchnav {       width: 100%;
@@ -7466,7 +7466,7 @@ margin-top: -258px;
     margin: 0;
     padding-top: 127px;     padding-bottom: 134px;
     margin-top: -40px !important;}
-    .searchcloud { margin-bottom: 0px;width:fit-content;max-width:100%; height:440px; background:rgba(0,0,0,.2);display:inline-flex; padding:10px; position:relative; margin-top:30px;border-radius:15px;z-index:99;margin-left:-10px; height:fit-content; border:1px solid rgba(255,255,255,0.1);    overflow: hidden; 
+    .searchcloud { margin-bottom: 0px;width:fit-content;max-width:100%; height:440px; background:rgba(0,0,0,.2);display:none; padding:10px; position:relative; margin-top:30px;border-radius:15px;z-index:99;margin-left:-10px; height:fit-content; border:1px solid rgba(255,255,255,0.1);    overflow: hidden; 
     overflow-x: scroll;  overflow-y:scroll;}
      .searchcloud:hover { margin-bottom: 0px;width:fit-content;max-width:100%; height:440px; background:rgba(0,0,0,.2);display:inline-flex; padding:10px; position:relative; margin-top:30px;border-radius:15px;z-index:99;margin-left:-10px; height:fit-content; border:1px solid rgba(255,255,255,0.1);    overflow: hidden;  
     overflow-x: scroll;  overflow-y:scroll;}
@@ -13692,7 +13692,7 @@ And the time is  <div class="datetime">
     </div>
     <div id="bottomsearchnava" class="bottomsearchnava">
     <div id="bottomsearchnav" class="bottomsearchnav">
-MMXIV-MMXXV
+MMXXV
 
 <div id="reapersmenu" class="reapersmenu">
 
@@ -13703,13 +13703,8 @@ MMXIV-MMXXV
    <a href="https://maiosx.tumblr.com" target="_blank">maiOSX</a>
    
     <a href="https://medium.com/@zenlossq" target="_blank">ZenlossQ</a>
-</div><br>
-<a href="https://apps.apple.com/us/app-bundle/fizzy-water-bundle/id1601247237" style="color:white;">The Fizzy Water Bundle</a> ︱
-<a href="https://chrome.google.com/webstore/detail/animation-policy/ncigbofjfbodhkaffojakplpmnleeoee?hl=en" style="color:white;">Animation Policy</a> ︱
-<a href="https://chromewebstore.google.com/detail/picture-in-picture-floati/adnielbhikcbmegcfampbclagcacboff" style="color:white;">Floating Player</a> ︱
-<a href="https://chromewebstore.google.com/detail/tumblr-%E2%80%93-post-to-tumblr/ffnhmkgpdmkajhomnckhabkfeakhcamm" style="color:white;">Tumblr Extension</a> ︱
-<a href="https://chrome.google.com/webstore/detail/new-address-bar/pjpbjboafkcbfpgiodfpfbehkjobdppe" style="color:white;">New Addressbar</a> ︱
-<a href="https://chrome.google.com/webstore/detail/leftside-back/gdcddfacdedphcamippdkojfngoakglg" style="color:white;">Leftside Back Button</a>
+</div><br><br><br><br><br>
+<a href="https://github.com/maiosx/Snow-Leopard" style="color:white;">Snow Leopard</a> 
 </div>
 
     </div>
