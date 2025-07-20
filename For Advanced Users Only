@@ -5666,7 +5666,7 @@ font-family: Spartan;
     text-shadow: 0px 2px 4px rgba(0,0,0,0.9);
     padding: 20px;
   
-    height: 634px;
+    height: 610px;
     border-radius: 15px;
     margin-top: 12px;
     background-size: contain;
@@ -7267,11 +7267,11 @@ margin-left:10px;
     .capcut1 {display:block; width:256px; height:256px;
     width: 256px;
     height: 256px;
-    margin-left: 225px;
+    margin-left: 225px; opacity:0;
     transform: scale(0.09);    margin-top: -95px; 
     }
     .capcutcloud1 {display:block; width:256px; height:256px;display: block;
-    width: 256px;
+    width: 256px; opacity:0;
     height: 256px;
     margin-left: -225px;
     transform: scale(0.09);      margin-top: -255px;
@@ -13028,7 +13028,7 @@ And the time is  <div class="datetime">
  <div id="qa" class="qa" style="
     margin-top: 50px; font-weight:100;
 ">
- <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://maiosx.com/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://qz.com"> read Quartz news</a>,<a href="https://rottentomatoes.com/"> see movie trailers</a>, <a href="https://maiosx.com/search/anime">look at anime art</a>, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams on twitch</a>, <a href="https://www.discord.com/app">chat on Discord</a>,<a href="https://chatgpt.com/"> use ChatGPT</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.gg/stablediffusion"> diffuse</a>...</p>
+ <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://macosx.blog/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://qz.com"> read Quartz news</a>,<a href="https://rottentomatoes.com/"> see movie trailers</a>, <a href="https://macosx.blog/search/anime">look at anime art</a>, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams on twitch</a>, <a href="https://www.discord.com/app">chat on Discord</a>,<a href="https://chatgpt.com/"> use ChatGPT</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.gg/stablediffusion"> diffuse</a>...</p>
  </div>
  <div id="divx2" class="divx2">
     <img class="bottom" src="https://i.imgur.com/n5w6LdS.png">
@@ -13210,14 +13210,14 @@ And the time is  <div class="datetime">
     <div id="searchcloudtagsm" class="searchcloudtagsm">
     <a href="{text:YourMainURL}/search/phonk" target="_blank" title="Phonk">#phonk</a>
     <a href="{text:YourMainURL}/search/rock" target="_blank">#rock</a>
-    <a href="https://maiosx.com/search/breakcore" target="_blank">#breakcore</a>
-    <a href="https://maiosx.com/search/miku" target="_blank">#miku</a>
-     <a href="https://maiosx.com/search/battletapes" target="_blank">#battletapes</a>
-     <a href="https://maiosx.com/search/relaxing" target="_blank">#relaxing</a>
-        <a href="https://maiosx.com/search/atmospheric" target="_blank">#atmospheric</a>
-        <a href="https://maiosx.com/search/pop" target="_blank">#pop</a>
-        <a href="https://maiosx.com/search/kpop" target="_blank">#kpop</a> 
-             <a href="https://maiosx.com/search/upbeat" target="_blank">#upbeat</a>
+    <a href="https://macosx.blog/search/breakcore" target="_blank">#breakcore</a>
+    <a href="https://macosx.blog/search/miku" target="_blank">#miku</a>
+     <a href="https://macosx.blog/search/battletapes" target="_blank">#battletapes</a>
+     <a href="https://macosx.blog/search/relaxing" target="_blank">#relaxing</a>
+        <a href="https://macosx.blog/search/atmospheric" target="_blank">#atmospheric</a>
+        <a href="https://macosx.blog/search/pop" target="_blank">#pop</a>
+        <a href="https://macosx.blog/search/kpop" target="_blank">#kpop</a> 
+             <a href="https://macosx.blog/search/upbeat" target="_blank">#upbeat</a>
     
     
     
@@ -13228,14 +13228,14 @@ And the time is  <div class="datetime">
     
     
     <div id="searchcloudtagsv" class="searchcloudtagsv">
-    <a href="https://maiosx.com/search/movies" target="_blank">#movies</a><a  href="https://maiosx.com/search/beatsaber" target="_blank">#beatsaber</a><a  href="https://maiosx.com/search/omotea" target="_blank">#omotea</a><a  href="https://maiosx.com/search/dancingshana" target="_blank">#dancingshana</a>
-    <a  href="https://maiosx.com/search/sakuramiko" target="_blank">#sakuramiko</a>
-    <a  href="https://maiosx.com/search/sakamatachloe" target="_blank">#sakamatachloe</a>
-    <a  href="https://maiosx.com/search/hololive" target="_blank">#hololive</a>
-    <a href="https://maiosx.com/search/mmd" target="_blank">#mmd</a>
-    <a href="https://maiosx.com/search/amv" target="_blank">#amv</a>
-    <a href="https://maiosx.com/search/honkai" target="_blank">#honkai</a>
-     <a href="https://maiosx.com/search/mychannel" target="_blank">#mychannel</a>
+    <a href="https://macosx.blog/search/movies" target="_blank">#movies</a><a  href="https://macosx.blog/search/beatsaber" target="_blank">#beatsaber</a><a  href="https://macosx.blog/search/omotea" target="_blank">#omotea</a><a  href="https://macosx.blog/search/dancingshana" target="_blank">#dancingshana</a>
+    <a  href="https://macosx.blog/search/sakuramiko" target="_blank">#sakuramiko</a>
+    <a  href="https://macosx.blog/search/sakamatachloe" target="_blank">#sakamatachloe</a>
+    <a  href="https://macosx.blog/search/hololive" target="_blank">#hololive</a>
+    <a href="https://macosx.blog/search/mmd" target="_blank">#mmd</a>
+    <a href="https://macosx.blog/search/amv" target="_blank">#amv</a>
+    <a href="https://macosx.blog/search/honkai" target="_blank">#honkai</a>
+     <a href="https://macosx.blog/search/mychannel" target="_blank">#mychannel</a>
     
     
     
@@ -13244,14 +13244,14 @@ And the time is  <div class="datetime">
         
        
         <div id="searchcloudtagsp" class="searchcloudtagsp">
-        <a href="https://maiosx.com/search/aiart" target="_blank">#aiart</a>
-        <a href="https://maiosx.com/search/animeart" target="_blank">#animeart</a>
-        <a href="https://maiosx.com/search/miniarchillect" target="_blank">#miniarchillect</a>
-        <a href="https://maiosx.com/search/archillect" target="_blank">#archillect</a>
-        <a href="https://maiosx.com/search/maisakurajima" target="_blank">#maisakurajima</a>
-        <a href="https://maiosx.com/search/lycorisrecoil" target="_blank">#lycorisrecoil</a>
-        <a href="https://maiosx.com/search/portraitwallpapers" target="_blank">#portraitwallpapers</a>
-          <a href="https://maiosx.com/search/GifsAnime_" target="_blank">#GifsAnime_</a>
+        <a href="https://macosx.blog/search/aiart" target="_blank">#aiart</a>
+        <a href="https://macosx.blog/search/animeart" target="_blank">#animeart</a>
+        <a href="https://macosx.blog/search/miniarchillect" target="_blank">#miniarchillect</a>
+        <a href="https://macosx.blog/search/archillect" target="_blank">#archillect</a>
+        <a href="https://macosx.blog/search/maisakurajima" target="_blank">#maisakurajima</a>
+        <a href="https://macosx.blog/search/lycorisrecoil" target="_blank">#lycorisrecoil</a>
+        <a href="https://macosx.blog/search/portraitwallpapers" target="_blank">#portraitwallpapers</a>
+          <a href="https://macosx.blog/search/GifsAnime_" target="_blank">#GifsAnime_</a>
         
         
         
@@ -13263,9 +13263,9 @@ And the time is  <div class="datetime">
         
         
         
- <a href="https://maiosx.com/search/maiOSX" target="_blank">#maiOSX</a>
- <a href="https://maiosx.com/search/life" target="_blank">#life</a>
- <a href="https://maiosx.com/search/rally" target="_blank">#rally</a>
+ <a href="https://macosx.blog/search/maiOSX" target="_blank">#maiOSX</a>
+ <a href="https://macosx.blog/search/life" target="_blank">#life</a>
+ <a href="https://macosx.blog/search/rally" target="_blank">#rally</a>
  
         
         
@@ -13274,10 +13274,10 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsa" class="searchcloudtagsa">
         
         
-      <a href="https://maiosx.com/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
-          <a href="https://maiosx.com/search/magicalrevolution" target="_blank">#anime</a>
-             <a href="https://maiosx.com/search/nisekoi" target="_blank">#nisekoi</a>
-              <a href="https://maiosx.com/search/mirainikki" target="_blank">#mirainikki</a>
+      <a href="https://macosx.blog/search/magicalrevolution" target="_blank">#MagicalRevolution</a>
+          <a href="https://macosx.blog/search/magicalrevolution" target="_blank">#anime</a>
+             <a href="https://macosx.blog/search/nisekoi" target="_blank">#nisekoi</a>
+              <a href="https://macosx.blog/search/mirainikki" target="_blank">#mirainikki</a>
         
         
         
@@ -13285,8 +13285,8 @@ And the time is  <div class="datetime">
     
       <div id="searchcloudtagsc" class="searchcloudtagsc">
         
-      <a href="https://maiosx.com/search/apple" target="_blank">#apple</a><a  href="https://maiosx.com/search/wwdc" target="_blank">#wwdc</a>
-      <a  href="https://maiosx.com/search/designs" target="_blank">#designs</a>
+      <a href="https://macosx.blog/search/apple" target="_blank">#apple</a><a  href="https://macosx.blog/search/wwdc" target="_blank">#wwdc</a>
+      <a  href="https://macosx.blog/search/designs" target="_blank">#designs</a>
         
         
         
@@ -13295,8 +13295,8 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsmm" class="searchcloudtagsmm">
         
         
-    <a href="https://maiosx.com/search/picturesfolder" target="_blank">#picturesfolder</a>
-     <a href="https://maiosx.com/search/youtubememes" target="_blank">#youtubememes</a>
+    <a href="https://macosx.blog/search/picturesfolder" target="_blank">#picturesfolder</a>
+     <a href="https://macosx.blog/search/youtubememes" target="_blank">#youtubememes</a>
         
         
         
@@ -13305,11 +13305,11 @@ And the time is  <div class="datetime">
       <div id="searchcloudtagsg" class="searchcloudtagsg">
         
         
-  <a href="https://maiosx.com/search/gta" target="_blank">#gta</a>
-   <a href="https://maiosx.com/search/classics" target="_blank">#classics</a>
-   <a href="https://maiosx.com/search/steam" target="_blank">#steam</a>
-   <a href="https://maiosx.com/search/appstore" target="_blank">#appstore</a>
-           <a href="https://maiosx.com/search/nintendo" target="_blank">#nintendo</a>
+  <a href="https://macosx.blog/search/gta" target="_blank">#gta</a>
+   <a href="https://macosx.blog/search/classics" target="_blank">#classics</a>
+   <a href="https://macosx.blog/search/steam" target="_blank">#steam</a>
+   <a href="https://macosx.blog/search/appstore" target="_blank">#appstore</a>
+           <a href="https://macosx.blog/search/nintendo" target="_blank">#nintendo</a>
         
         
         
@@ -13623,9 +13623,9 @@ And the time is  <div class="datetime">
          <a href="https://www.tumblr.com/new/text"  onclick="window.open('https://www.tumblr.com/new/text', 
                          'newwindow23', 
                          'width=917,height=832'); 
-              return false;">✔️ Post Something New (maiOSX Only)</a>
+              return false;">✔️ Post Something New (Tumblrs Only)</a>
               
-              <a href="https://www.pinterest.com/maiOSX/2023/"  onclick="window.open('https://www.pinterest.com/maiOSX/2023/', 
+              <a href="https://www.pinterest.com/maiOSX/"  onclick="window.open('https://www.pinterest.com/maiOSX/', 
                          'newwindow23', 
                          'width=917,height=832'); 
               return false;">📅📌 Pins</a>
@@ -14970,7 +14970,7 @@ Your browser does not support inline frames or is currently configured not to di
 
 
          <div id="icon22" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL22}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL22}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.icloud.com/invites/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://www.icloud.com/system/icloud.com/2507Hotfix36/a66757330169f349730c036bc7596781.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL22Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL22}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL22}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.icloud.com/invites/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://www.icloud.com/system/icloud.com/2524Hotfix18/c373aee99ed134ddc981867aa07d0e8e.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL22Image}{block:IfDockDefaultsOff}">️</a> 
 </div>     
 
 
