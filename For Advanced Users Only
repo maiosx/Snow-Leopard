@@ -7465,7 +7465,7 @@ margin-top: -258px;
 .permalink-page .searchcloud {display:none;}
 .permalink-page .bottomsearchnav {display:none;}
 .permalink-page .bottomsearchnava {display:none;}
-    .permalink-page .topsearchnav {z-index:0; margin-top:-20px;}
+    .permalink-page .topsearchnav {z-index:0; margin-top:0px;}
     .permalink-page .container {margin-top:0px !important;}
      .ipadlogo {display:none; height:62px; position:absolute; width:100%; top:0;background:rgba(0,0,0,0.0);font-size:24px;font-family:'Quicksand';color:white;line-height:265%; }
            
