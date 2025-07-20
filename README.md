@@ -3,6 +3,7 @@ maiOSX is the world's most advanced tumblr "OS" designed in mind for file retent
 Requirements as of Oct/3/2024
 
 Chromium Browser on a 1920x1080 capable PC or Mac with at least 2GB of VRAM
+
 Chrome on Android with a modern Snapdragon chip.
 The Mobile Website only works on iPads as the Webkit Renderer on iOS is not sufficient to run the website
 
