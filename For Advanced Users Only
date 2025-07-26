@@ -12760,12 +12760,13 @@ document.addEventListener('click', function (event) {
 	// Get the content
 	var content = document.querySelector(event.target.hash);
 	if (!content) return;
-
+ 
 	// Toggle the content
 	toggle(content);
 	 $("html, body").animate({ scrollTop: 0 }, "fast");
     $(".iconsholder").css({'display': 'none'}); 
       $(".toggle8").css({'display': 'none'}); 
+          $(".launcher").css({'display': 'none'}); 
 }, false);
 
 
