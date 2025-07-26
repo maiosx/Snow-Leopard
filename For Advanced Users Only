@@ -12763,9 +12763,11 @@ document.addEventListener('click', function (event) {
 
 	// Toggle the content
 	toggle(content);
+	 $("html, body").animate({ scrollTop: 0 }, "fast");
     $(".iconsholder").css({'display': 'none'}); 
       $(".toggle8").css({'display': 'none'}); 
 }, false);
+
 
         var show = function (elem) {
 	elem.style.display = 'block';
@@ -13316,7 +13318,9 @@ And the time is  <div class="datetime">
     </div>
 </div>
  <div id="about" class="about">{text:About}</div>
-  <div id="about" class="about"><a href="https://github.com/maiosx/Snow-Leopard">maiOSX</a> is the world's most advanced "OS" made for Tumblr consisting of over 15,000 lines of code. It works best with IFTTT automation. <a href="https://maiosx.my.canva.site/">A documentation guide for it can be found here.</a></br></br>maiOSX runs hybridly with <a href="https://flathub.org/apps/io.github.jeffshee.Hidamari">hidamari</a> and <a href="https://extensions.gnome.org/extension/3843/just-perfection/">just perfection</a> from the gnome desktop on arch and fedora linux with intel and amd graphics currently and with <a href="https://apps.apple.com/us/app/plash/id1494023538?mt=12">Plash</a> on macs.</br></br>For native use I recommend <a href="https://www.mydockfinder.com/">MyDockFinder</a> as an alternative to the macOSX GUI to run on Windows and buying a mac for the true Apple Inc. fan.</div>
+  <div id="about" class="about"><a href="https://github.com/maiosx/Snow-Leopard">maiOSX</a> is the world's most advanced "OS" made for Tumblr consisting of over 15,000 lines of code. It works best with IFTTT automation. <a href="https://maiosx.my.canva.site/">A documentation guide for it can be found here.</a></br></br>maiOSX runs hybridly with <a href="https://flathub.org/apps/io.github.jeffshee.Hidamari">hidamari</a> and <a href="https://extensions.gnome.org/extension/3843/just-perfection/">just perfection</a> from the gnome desktop on arch and fedora linux with intel and amd graphics currently and with <a href="https://apps.apple.com/us/app/plash/id1494023538?mt=12">Plash</a> on macs.</br></br>For native use I recommend <a href="https://www.mydockfinder.com/">MyDockFinder</a> as an alternative to the macOSX GUI to run on Windows and buying a mac for the true Apple Inc. fan.<br><br>
+      <a href="https://ko-fi.com/maiosx">Support the project on ko-fi!</a>
+  </div>
 
                 <ul class="sidebar-links sidebar-links-main">
                     
