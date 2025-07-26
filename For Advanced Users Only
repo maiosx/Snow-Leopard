@@ -12765,6 +12765,7 @@ document.addEventListener('click', function (event) {
 	toggle(content);
 	 $("html, body").animate({ scrollTop: 0 }, "fast");
     $(".iconsholder").css({'display': 'none'}); 
+     $(".resizer3").css({'background': 'rgba(0,150,255,1.0)'});
       $(".toggle8").css({'display': 'none'}); 
           $(".launcher").css({'display': 'none'}); 
 }, false);
