@@ -206,6 +206,26 @@
         
         <style type="text/css"> 
         
+        
+        #reload {
+    font-family: 'Quicksand';
+    width: 100px;
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.9);
+    height: 50px;
+    color: #fff;
+    font-size: 20px;
+    transition: ease-in 800ms;
+    border-radius: 15px;
+    border: 0px solid #fff;
+    background: rgba(0,0,0,0.0);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    margin-left: 70px;
+    left:0;
+    margin-top:-129px;
+    position:fixed;
+}
+        
         .newdockbg
 {width:90%;background:deepskyblue;bottom:0px;position:fixed;height:110px;left:5%;}
 .iconsholder
@@ -7037,7 +7057,7 @@ margin-left:10px;
     display: block;
     height: 10%;
     border-left: 1px solid rgba(255,255,255,0.1);
-    right: 0;
+    right: 0; transition:0.5s;
     z-index: 9999;
     bottom: 30%;
     position: fixed;    border-bottom-left-radius: 150px;
@@ -7046,7 +7066,7 @@ margin-left:10px;
      .resizer:hover {    background: rgba(255,255,255,0.9);
     border: 0px solid #000;
     backdrop-filter: blur(5px);
-    box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
+  box-shadow: 0px 0px 10px 10px rgb(255, 255, 255, 30%);
     -webkit-backdrop-filter: blur(5px);
     width: 10px;
     display: block;    border-bottom-left-radius: 150px;
@@ -7063,7 +7083,7 @@ margin-left:10px;
     backdrop-filter: blur(5px);    border-top-left-radius: 150px;
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
     -webkit-backdrop-filter: blur(5px);
-    width: 10px;
+    width: 10px;  transition:0.5s;
     display: block;
     height: 10%;
     border: 1px solid rgba(255,255,255,0.1);
@@ -7075,7 +7095,7 @@ margin-left:10px;
      .resizer2:hover {       background: rgba(255,255,255,0.9);
     border: 0px solid #000;
     backdrop-filter: blur(5px);    border-top-left-radius: 150px;
-    box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
+    box-shadow: 0px 0px 10px 10px rgb(255, 255, 255, 30%);
     -webkit-backdrop-filter: blur(5px);
     width: 10px;
     display: block;
@@ -7090,7 +7110,7 @@ margin-left:10px;
 
     
     .resizer3 {  background: rgba(0,0,0,0.0);
-    border: 0px solid #000;
+    border: 0px solid #000;  transition:0.5s;
     backdrop-filter: blur(5px);
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
     -webkit-backdrop-filter: blur(5px);
@@ -7107,7 +7127,7 @@ margin-left:10px;
      .resizer3:hover {     background: rgba(255,255,255,0.9) !important;
     border: 0px solid #000;
     backdrop-filter: blur(5px);
-    box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
+box-shadow: 0px 0px 10px 10px rgb(255, 255, 255, 30%);
     -webkit-backdrop-filter: blur(5px);
     width: 10px;
     display: block;
@@ -7120,7 +7140,7 @@ margin-left:10px;
     }
     
      .resizer4 {      background: rgba(0,0,0,0.0);
-    border: 0px solid #000;
+    border: 0px solid #000;  transition:0.5s;
     backdrop-filter: blur(5px);
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
     -webkit-backdrop-filter: blur(5px);
@@ -7137,7 +7157,7 @@ margin-left:10px;
      .resizer4:hover {    background: rgba(255,255,255,0.9);
     border: 0px solid #000;
     backdrop-filter: blur(5px);
-    box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
+  box-shadow: 0px 0px 10px 10px rgb(255, 255, 255, 30%);
     -webkit-backdrop-filter: blur(5px);
     width: 10px;
     display: none;
@@ -7149,7 +7169,7 @@ margin-left:10px;
     position: fixed;
     }
       .resizer5 {  background: rgba(0,0,0,0.0);
-    border: 0px solid #000;
+    border: 0px solid #000;  transition:0.5s;
     backdrop-filter: blur(5px);
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
     -webkit-backdrop-filter: blur(5px);
@@ -7166,7 +7186,7 @@ margin-left:10px;
      .resizer5:hover {   background: rgba(255,255,255,0.9);
     border: 0px solid #000;
     backdrop-filter: blur(5px);
-    box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
+ box-shadow: 0px 0px 10px 10px rgb(255, 255, 255, 30%);
     -webkit-backdrop-filter: blur(5px);
     width: 10px;
     display: block;
@@ -8381,6 +8401,7 @@ animation:fadeIn 7s;
     margin-bottom: 0px;
     letter-spacing: 8px;
     background-size: cover;
+    box-shadow: 1px 1px 30px 10px rgba(255, 255, 255, 30%);
    /* background-image: url(https://i.imgur.com/AdddHXV.png); */
     font-family: Helvetica;
     /* border-bottom-left-radius: 150px; */
@@ -9206,7 +9227,7 @@ border:1px solid rgba(255,255,255,0.9); }
     font-family: Helvetica;
     background: linear-gradient(180deg, #000000, #777, #000000, #777);
     background-size: 800% 800%;
-
+box-shadow: 1px 1px 30px 10px rgba(255, 255, 255, 30%);
     -webkit-animation: WHITESILVER 10s ease infinite;
     -moz-animation: WHITESILVER 10s ease infinite;
     animation: WHITESILVER 10s ease infinite;
@@ -9289,7 +9310,7 @@ border:1px solid rgba(255,255,255,0.9); }
     font-family: Helvetica;
         background: linear-gradient(180deg, #1c43a6, #b0d9d8, #1c43a6, #b0d9d8);
     background-size: 800% 800%;
-
+box-shadow: 1px 1px 30px 10px rgba(255, 255, 255, 30%);
     -webkit-animation: MIKU 10s ease infinite;
     -moz-animation: MIKU 10s ease infinite;
     animation: MIKU 10s ease infinite;
@@ -9370,7 +9391,7 @@ background: rgba(0,0,0,0.0);
     letter-spacing: 8px;
     box-shadow: 0px 2px 40px 1px rgb(0 0 0 / 30%);
     font-family: Helvetica;
- 
+ box-shadow: 1px 1px 30px 10px rgba(255, 255, 255, 30%);
     
   background: linear-gradient(180deg, #2EB572, #ff00c8, #2EB572, #ff00c8);
     background-size: 800% 800%;
@@ -15229,6 +15250,7 @@ Your browser does not support inline frames or is currently configured not to di
 <button type="button" id="btn_id6" class="resizer6"></button>
 <button type="button" id="btn_id8" class="resizer8"></button>
 <button type="button" id="btn_id7" class="resizer7"></button>
+<button id="reload" onClick="window.location.href=window.location.href">Reload</button>
  </div>
  
     </body>
