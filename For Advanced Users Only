@@ -5046,10 +5046,10 @@ font-family: Spartan;
     font-size: 20px;
     margin-left: -40px;
     margin-top: 0px;}
-     .minipc {height:645px; width:456px; background:url(https://i.imgur.com/tJ5LrtD.png);  background-size: 456px 645px; position:absolute;     top: -1px;
+     .minipc {height:645px; width:456px;  background-image: url('{image:StatusBackground}');  background-size: 456px 645px; position:absolute;     top: 0px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;}
-      .minipc:hover {height:645px; width:456px; background:url(https://i.imgur.com/tJ5LrtD.png);  background-size: 456px 645px; position:absolute;     top: -1px;
+      .minipc:hover {height:645px; width:456px; background-image: url('{image:StatusBackground}'); background-size: 456px 645px; position:absolute;     top: 0px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;}
      
@@ -13126,15 +13126,7 @@ And the time is  <div class="datetime">
 <div id="minipc" class="minipc">
   
    <ul>
-  <li style="
-    padding-top: 26px;
-"><a href="https://instagram.com/maiosx98">Instagram</a></li>
-  <li><a href="https://open.spotify.com/user/lnrlq2yhrtt7ihi9z9gurhxzu">Spotify</a></li>
-  <li><a href="https://www.youtube.com/channel/UCsZybwlfzgVAIiIdG42Xqeg">Youtube</a></li>
-  <li><a href="https://www.pinterest.com/ioxwave/">Pinterest</a></li>
-  <li><a href="https://photos.app.goo.gl/8JMm86K2Jid2v2848">Apple Archive</a></li>
-  <li><a href="http://blackjackosx.netlify.app">Blackjack</a></li>
-   <li><a href="http://nodoom.app">Nodoom</a></li>
+ 
 </ul>
     
    
@@ -13145,12 +13137,12 @@ And the time is  <div class="datetime">
    letter-spacing:1px;
     text-transform: lowercase;
     font-family: 'Quicksand';
-">hello, earth</a2>
+">hello, world</a2>
 <br><a2 style="
        letter-spacing:1px;
     text-transform: lowercase;
     font-family: 'Quicksand';
-">from,  {block:IfShowTitle}       {Title}  {/block:IfShowTitle}</a2></center>
+">from  {block:IfShowTitle}       {Title}  {/block:IfShowTitle}</a2></center>
 <br><center>🎤</center></br>
 <center></center>
     
