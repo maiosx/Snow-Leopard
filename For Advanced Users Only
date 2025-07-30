@@ -13053,7 +13053,7 @@ And the time is  <div class="datetime">
  <div id="qa" class="qa" style="
     margin-top: 50px; font-weight:100;
 ">
- <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://macosx.blog/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://qz.com"> read Quartz news</a>,<a href="https://rottentomatoes.com/"> see movie trailers</a>, <a href="https://macosx.blog/search/anime">look at anime art</a>, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams on twitch</a>, <a href="https://www.discord.com/app">chat on Discord</a>,<a href="https://chatgpt.com/"> use ChatGPT</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.gg/stablediffusion"> diffuse</a>...</p>
+ <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://macosx.blog/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://qz.com"> read Quartz news</a>,<a href="https://rottentomatoes.com/"> see movie trailers</a>, <a href="https://macosx.blog/search/anime">look at anime art</a>, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams on twitch</a>, <a href="https://www.discord.com/app">chat on Discord</a>,<a href="https://chatgpt.com/"> use ChatGPT</a> or<a href="https://grok.com/"> Grok</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.gg/stablediffusion"> diffuse</a>...</p>
  </div>
  <div id="divx2" class="divx2">
     <img class="bottom" src="https://i.imgur.com/n5w6LdS.png">
@@ -14980,7 +14980,7 @@ Your browser does not support inline frames or is currently configured not to di
 
         
                   <div id="icon24" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://grok.com/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh04nvoh53I7YesJLPGDKnY5XIzH03sWbyGQ&s{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL24Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://grok.com/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/gJiEqR6.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL24Image}{block:IfDockDefaultsOff}">️</a> 
 </div>     
 
          <div id="icon21" class="icon">
@@ -15038,7 +15038,7 @@ Your browser does not support inline frames or is currently configured not to di
 </div>       
 
 <div id="icon13" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://www.youtube.com/@DancingshanaVR{/block:IfDockDefaultsOn}', 'newwindow13', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://static-cdn.jtvnw.net/jtv_user_pictures/f1a11d37-408d-42aa-ad74-0c336a5cd1ec-profile_image-300x300.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL13Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL13}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://archillect.com/tv{/block:IfDockDefaultsOn}', 'newwindow13', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8qimvYv7lz3OlZGXT3sE4mD3KSyAW0siig&s{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL13Image}{block:IfDockDefaultsOff}">️</a> 
 </div>
 
 
@@ -15213,7 +15213,7 @@ Your browser does not support inline frames or is currently configured not to di
 "></div>
 
  <div id="cornerbutton2" class="cornerbutton2">
-     <a href="https://trello.com/" target="_blank"  style="
+     <a href="https://grok.com/" target="_blank"  style="
     border-radius: 23px;
     height: 30px;
     margin-right: -75px;
@@ -15224,7 +15224,7 @@ Your browser does not support inline frames or is currently configured not to di
     margin-top: 2px;
     display: block;
 }
-">Trello</a>
+">Grok</a>
  </div>
   <div id="cornerbutton3" class="cornerbutton3">
      <a href="https://coinbase.com/" target="_blank"  style="
