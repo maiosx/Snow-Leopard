@@ -19,6 +19,8 @@ maiOSX Snow Leopard has undergone rigorous development for many years and is now
 
 [maiOSX Guide](https://maiosx.my.canva.site/)
 
+[Installation](https://www.youtube.com/watch?v=gL3Hfxvajbg)
+
 [Documentation](https://maiosx.gitbook.io/1.0)
 
 ❤️
