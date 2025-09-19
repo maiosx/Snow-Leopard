@@ -1921,6 +1921,20 @@ border:1px solid rgba(255,255,255,0.4); padding-bottom:13px;
     -moz-animation: grey 40s ease infinite; transition:4s;
     animation: grey 40s ease infinite;  padding-top:0px;}
     
+      .widget11 {
+    width: 357px;
+    height: 183px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    align: left;
+    margin-top: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    padding: 13px;
+    color: white;
+    margin-left: 0px;
+    box-shadow: 0px 1px 10px 1px rgb(0, 0, 0, 30%);
+}
+    
        .widget8text  {color:white; text-align:left;
        font-family: Quicksand;
        font-size: 20px;
@@ -14564,18 +14578,21 @@ id="youtube-audio">
          
       
          
-            <div id="widget8" class="widget8">
+<div id="widget8" class="widget8">
                 <div id="widget8text" class="widget8text">
                      Career Card
-                 </div>
-                <div id="widget8subtext" class="widget8subtext">
-             <a href="https://maiosx.gumroad.com/l/info">MaiOSX</a>
-              <a href="https://www.youtube.com/channel/UCsZybwlfzgVAIiIdG42Xqeg">Art</a>
-                  <a href="https://www.rockstargames.com/gta-v">Rockstar Games</a>
-                  <a href=""></a>
+                                </div>
+<div id="widget8subtext" class="widget8subtext">
+    <a href="https://maiosx.gumroad.com/l/info">MaiOSX</a>
+    <a href="https://www.youtube.com/channel/UCsZybwlfzgVAIiIdG42Xqeg">Art</a>
+    <a href="https://www.rockstargames.com/gta-v">Rockstar Games</a>
+                
                 </div> 
          </div> 
          
+       <div id="widget11" class="widget11">  
+             <a href="https://discord.com/users/1268241660630794322"><img src="https://lanyard.cnrad.dev/api/1268241660630794322" /></a>
+    </div>
          
     
  </div>
@@ -14648,15 +14665,7 @@ id="youtube-audio">
       
         
         </div>
-           <div id="textthree" class="textthree"><a href="https://www.pinterest.com/maiOSX/anime/">🏖️ Pins</a></div>
-        
-        <div id=animeboard" class="animeboard">
-        
-       
-        
-        
-        <a data-pin-do="embedBoard" data-pin-board-width="1920" data-pin-scale-height="800" data-pin-scale-width="400" href="https://www.pinterest.com/maiOSX/anime/"></a>
-        </div>
+          
                 </div>
         
         </div>
@@ -14764,7 +14773,7 @@ tickercontent[1]='hello, world';
 
 <script type="text/javascript">
 <!--
-// � copyright 2009 - MRE Software / Author: Emery Wooten / www.mresoftware.com
+//   copyright 2009 - MRE Software / Author: Emery Wooten / www.mresoftware.com
 var pause = false; // Boolean to trigger pause on mouseover event
 var t1,t2,t3; // Timer ID variables.
 var icnt = 0; // Outside loop counter
