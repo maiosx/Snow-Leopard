@@ -1,4 +1,5 @@
-     .hello
+@media screen and (min-width: 1080px) {
+.hello
  {
             display: block;
             width: 100%;
@@ -17,3 +18,5 @@
             background-position-y: 50%;
             z-index: 9;
         }
+
+}
