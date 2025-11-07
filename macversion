@@ -5971,7 +5971,7 @@ display:grid;
                 .peoplehub3 {height:900px; margin:0; width:1004px;color:white; font-size:40px; font-family:Quicksand; left:0; margin-top:350px; text-shadow: 0px 2px 4px rgba(0,0,0,0.9); background:background:black; }
                 
                 
-                .animeboard {height:900px; margin:0; width:1004px;color:white; font-size:40px; font-family:Quicksand; left:0;  text-shadow: 0px 2px 4px rgba(0,0,0,0.9); margin-top:100px;background:background:black; margin-left: -178px; padding-bottom:100px;}
+                .animeboard {height:900px; margin:0; width:1004px;color:white; font-size:40px; font-family:Quicksand; left:0;  text-shadow: 0px 2px 4px rgba(0,0,0,0.9); margin-top:100px;background:background:black; margin-left: -113px; padding-bottom:100px;}
                 
         .textone { color:white; font-size:40px; font-family:Quicksand; left:0; margin-top:50px; position:absolute; margin-left:40px;}
         
@@ -13066,7 +13066,7 @@ And the time is  <div class="datetime">
  <div id="qa" class="qa" style="
     margin-top: 50px; font-weight:100;
 ">
- <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://macosx.blog/search/music">Listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://qz.com"> read Quartz news</a>,<a href="https://rottentomatoes.com/"> see movie trailers</a>, <a href="https://macosx.blog/search/anime">look at anime art</a>, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams on twitch</a>, <a href="https://www.discord.com/app">chat on Discord</a>,<a href="https://chatgpt.com/"> use ChatGPT</a> or<a href="https://grok.com/"> Grok</a>,<a href="https://www.google.com"> make a search</a>, or<a href="https://discord.gg/stablediffusion"> diffuse</a>...</p>
+ <a href="https://play.geforcenow.com/mall/#/layout/games">Game</a>, <a href="https://macosx.blog/search/music">listen to music</a>, <a href="https://m.manganelo.com/genre-all/2">read manga</a>, <a href="https://www.crunchyroll.com/">watch anime</a>,<a href="https://twitter.com/picturesfoider"> look at picturesfolder</a>,<a href="https://archillect.com/tv"> watch archillect tv</a>,<a href="https://qz.com"> read Quartz news</a>,<a href="https://rottentomatoes.com/"> see movie trailers</a>, <a href="https://macosx.blog/search/anime">look at anime art</a>, <a href="https://www.youtube.com/feed/subscriptions">watch youtube</a>, <a href="https://www.twitch.tv/">see livestreams on twitch</a>, <a href="https://www.discord.com/app">chat on Discord</a>,</a> <a href="https://grok.com/"> use Grok</a>,<a href="https://www.google.com"> make a search</a>, <a href="https://discord.gg/stablediffusion"> or diffuse</a>...</p>
  </div>
  <div id="divx2" class="divx2">
     <img class="bottom" src="https://i.imgur.com/n5w6LdS.png">
@@ -13347,7 +13347,8 @@ And the time is  <div class="datetime">
 </div>
  <div id="about" class="about">{text:About}</div>
   <div id="about" class="about"><a href="https://github.com/maiosx/Snow-Leopard">maiOSX</a> is the world's most advanced "OS" made for Tumblr consisting of over 15,000 lines of code. It works best with IFTTT automation. <a href="https://maiosx.my.canva.site/">A documentation guide for it can be found here.</a></br></br>maiOSX runs hybridly with <a href="https://flathub.org/apps/io.github.jeffshee.Hidamari">hidamari</a> and <a href="https://extensions.gnome.org/extension/3843/just-perfection/">just perfection</a> from the gnome desktop on arch and fedora linux with intel and amd graphics currently and with <a href="https://apps.apple.com/us/app/plash/id1494023538?mt=12">Plash</a> on macs.</br></br>For native use I recommend <a href="https://www.mydockfinder.com/">MyDockFinder</a> as an alternative to the macOSX GUI to run on Windows and buying a mac for the true Apple Inc. fan.<br><br>
-      <a href="https://ko-fi.com/maiosx">Support the project on ko-fi!</a>
+      <a href="https://ko-fi.com/maiosx">Support the project on ko-fi!</a><br><br>
+       <a href="https://ioxwave.atabook.org/">Leave a message on the guestbook!</a>
   </div>
 
                 <ul class="sidebar-links sidebar-links-main">
@@ -13812,8 +13813,8 @@ MMXIV-MMXXV
 </div><br>
 <a href="https://apps.apple.com/us/app-bundle/fizzy-water-bundle/id1601247237" style="color:white;">The Fizzy Water Bundle</a> ︱
 <a href="https://chrome.google.com/webstore/detail/animation-policy/ncigbofjfbodhkaffojakplpmnleeoee?hl=en" style="color:white;">Animation Policy</a> ︱
-<a href="https://chromewebstore.google.com/detail/picture-in-picture-floati/adnielbhikcbmegcfampbclagcacboff" style="color:white;">Floating Player</a> ︱
-<a href="https://chromewebstore.google.com/detail/tumblr-%E2%80%93-post-to-tumblr/ffnhmkgpdmkajhomnckhabkfeakhcamm" style="color:white;">Tumblr Extension</a> ︱
+<a href="https://chromewebstore.google.com/detail/youtube-popout-player/kmfikkopdhmbdbkndkamabamlkkgkpod" style="color:white;">YouTube Popout Player</a> ︱
+<a href="https://addons.mozilla.org/en-US/firefox/addon/tumblr-1/?src=search" style="color:white;">Tumblr Extension</a> ︱
 <a href="https://chrome.google.com/webstore/detail/new-address-bar/pjpbjboafkcbfpgiodfpfbehkjobdppe" style="color:white;">New Addressbar</a> ︱
 <a href="https://chrome.google.com/webstore/detail/leftside-back/gdcddfacdedphcamippdkojfngoakglg" style="color:white;">Leftside Back Button</a>
 </div>
@@ -14034,7 +14035,7 @@ MMXIV-MMXXV
 
  <img src="https://media1.tenor.com/images/cfcff1b4e6c8803f1335b782037552bd/tenor.gif?itemid=14949127" draggable="true" ondragstart="dragThis(event)" id="drag3" class="drag3" width="289" height="150" >
 
-<img src="https://media1.tenor.com/images/b92742fe5c0697b33c0e29175fef084a/tenor.gif" draggable="true" ondragstart="dragThis(event)" id="drag4" width="289" height="150" class="drag4">
+<img src="https://i.imgur.com/lqrYNpu.gif" draggable="true" ondragstart="dragThis(event)" id="drag4" width="289" height="150" class="drag4">
 
 <img src="https://i.imgur.com/pWEWHmB.gif" draggable="true" ondragstart="dragThis(event)" id="drag5" width="289" height="150" class="drag5">
 
@@ -14659,9 +14660,22 @@ id="youtube-audio">
                 
         <div id="eventcover2" class="eventcover2"></div>
                 <div id="eventtitle2" class="eventtitle2"><a href="https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA">Sakura Miko</a></div>
+        </div>
+     <div id="textthree" class="textthree"><a href="https://www.pinterest.com/maiOSX/anime/">🌊 Discord Channel</a></div>
+        
+        <div id=animeboard" class="animeboard">
+        
+       
         
         
-      
+      <widgetbot
+  server="1414067823927627968"
+  channel="1414067824984461496"
+  width="800"
+  height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+       
         
         </div>
           
@@ -14979,6 +14993,14 @@ Your browser does not support inline frames or is currently configured not to di
 </div>   
 
 
+        <div id="icon29" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL29}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL29}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://apps.apple.com/{/block:IfDockDefaultsOn}', 'newwindow29', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL29Image}{block:IfDockDefaultsOff}">️</a> 
+</div>   
+
+
+    <div id="icon30" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL30}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL30}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://spinwheeltasks.vercel.app/{/block:IfDockDefaultsOn}', 'newwindow30', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.pinimg.com/originals/94/cc/d5/94ccd56f2a24d1eb9486d86fcee0b3b1.gif{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL30Image}{block:IfDockDefaultsOff}">️</a> 
+</div>   
 
 
 
@@ -14990,6 +15012,24 @@ Your browser does not support inline frames or is currently configured not to di
                   <div id="icon24" class="icon">
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL24}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://grok.com/{/block:IfDockDefaultsOn}', 'newwindow22', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/gJiEqR6.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL24Image}{block:IfDockDefaultsOff}">️</a> 
 </div>     
+
+                  <div id="icon25" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL25}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL25}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://discord.com/channels/@me{/block:IfDockDefaultsOn}', 'newwindow25', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/XxnSts0.jpeg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL25Image}{block:IfDockDefaultsOff}">️</a> 
+</div>     
+
+                 <div id="icon26" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL26}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL26}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://musicvi.netlify.app/{/block:IfDockDefaultsOn}', 'newwindow26', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/x3GFou3.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL26Image}{block:IfDockDefaultsOff}">️</a> 
+</div>   
+
+             <div id="icon27" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL27}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL27}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://calculatorv0.vercel.app/{/block:IfDockDefaultsOn}', 'newwindow27', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/BCmwRPd.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL27Image}{block:IfDockDefaultsOff}">️</a> 
+</div>   
+
+        <div id="icon28" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL28}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL28}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://opencut.app/{/block:IfDockDefaultsOn}', 'newwindow28', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/riuuA3q.jpeg{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL28Image}{block:IfDockDefaultsOff}">️</a> 
+</div>   
+
+
 
          <div id="icon21" class="icon">
 <a href="{block:IfDockDefaultsOff}{text:DOCKURL21}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL21}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://blackjackosx.netlify.app/{/block:IfDockDefaultsOn}', 'newwindow21', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://th.bing.com/th/id/OIP.j8rLjcg_AJJxmtBRIoy0NQHaHa?rs=1&pid=ImgDetMain{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL21Image}{block:IfDockDefaultsOff}">️</a> 
