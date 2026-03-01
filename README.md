@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/b136ff17-c5f9-4512-a564-030ea8930aab
+<img width="3840" height="2160" alt="maiOSX screenshot two" src="https://github.com/user-attachments/assets/39d8d1fd-3efa-4ac5-aadb-8b3f332239b4" />
 
 https://github.com/user-attachments/assets/b4d8189c-73b2-4ce3-94b1-f8c4cbb9290a
 
