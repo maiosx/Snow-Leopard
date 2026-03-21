@@ -1,6 +1,6 @@
 maiOSX Snow Leopard is a hybrid webOS that runs as a Tumblr theme
 
-Using the accompanied WebWallpaper.py App for Windows/NVIDIA users, Hidamari on Linux for AMD and Intel users, and Plash for Mac users maiOSX can run using Chromium and webkit based browser engines.
+Using the accompanied WebWallpaper.py App for Windows/NVIDIA users, Hidamari on Linux for AMD and Intel users, and Plash for Mac users -maiOSX can run as a desktop wallpaper!
 
 Installation is as easy as copying the macversion text file contents into a tumblr theme via https://www.tumblr.com/customize/ and setting the Logo and Wallpaper to your likings. 
 
