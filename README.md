@@ -1,28 +1,68 @@
-<img width="3840" height="2160" alt="maiOSX screenshot two" src="https://github.com/user-attachments/assets/39d8d1fd-3efa-4ac5-aadb-8b3f332239b4" />
+# WebWallpaper 🌐
 
-https://github.com/user-attachments/assets/b4d8189c-73b2-4ce3-94b1-f8c4cbb9290a
+Use any website as your Windows desktop background — powered by a real Chromium engine.
 
-https://github.com/user-attachments/assets/dca8f0fe-f3f5-4a7a-9440-aff4f9f08bcb
+---
 
-https://github.com/user-attachments/assets/480c98e9-fd51-46d7-a404-c7a14858c626
+## Requirements
 
-maiOSX is the world's most advanced tumblr "OS" designed in mind for file retention across modern devices. It runs on [Plash](https://apps.apple.com/us/app/plash/id1494023538?mt=12) for macs with Sonoma+ and on [Hidamari](https://flathub.org/apps/io.github.jeffshee.Hidamari) for flatpak capable linux distros with the gnome shell extensions dash to dock and just perfection on the Gnome Desktop Environment.
+- **Windows 10 / 11**
+- **Python 3.10+**
 
-Requirements as of Oct/3/2024
+Install dependencies (one-time):
 
-Chromium Browser on a 1920x1080 capable PC or Mac with at least 2GB of VRAM
+```
+pip install PyQt6 PyQt6-WebEngine
+```
 
-Chrome on Android with a modern Snapdragon chip.
-The Mobile Website only works on iPads as the Webkit Renderer on iOS is not sufficient to run the website
+---
 
-This is it. The Big Release. [maiOSX demo here](https://macosx.blog/) currently.
+## Run
 
-maiOSX Snow Leopard has undergone rigorous development for many years and is now ready for the masses.
+```
+python WebWallpaper.py
+```
 
-[maiOSX Guide](https://maiosx.my.canva.site/)
+A control panel appears and the website is placed behind your desktop icons.
+The app minimises to the **system tray** — double-click the tray icon to reopen the panel.
 
-[Installation](https://www.youtube.com/watch?v=gL3Hfxvajbg)
+---
 
-[Documentation](https://maiosx.gitbook.io/1.0)
+## Features
 
-❤️
+| Feature | Details |
+|---|---|
+| Any website | Type or paste any URL |
+| Favourites | Save & double-click to switch |
+| Mute audio | On by default, toggleable |
+| Auto-refresh | Reload the page on a timer (0 = off) |
+| Zoom | Scale the page 25 – 400 % |
+| Start with Windows | Adds / removes a registry run key |
+| Tray icon | Quick reload, open panel, or quit |
+
+---
+
+## Tips
+
+- **Best sites to use:** `earth.nullschool.net`, `windy.com`, any live dashboard, Fluid Simulation, or your own local HTML file via `file:///C:/path/to/file.html`
+- **For full desktop embedding** (behind icons) run the script as Administrator once. After that you can run it normally.
+- **Config** is saved at `%USERPROFILE%\.webwallpaper\config.json`
+
+---
+
+## Uninstall
+
+1. Quit from the tray icon.
+2. Uncheck "Start with Windows" in the Settings panel before quitting (or delete the registry key manually: `HKCU\Software\Microsoft\Windows\CurrentVersion\Run\WebWallpaper`).
+3. Delete the script and `%USERPROFILE%\.webwallpaper\`.
+
+---
+
+## Troubleshooting
+
+| Problem | Fix |
+|---|---|
+| Wallpaper not showing behind icons | Run as Administrator |
+| Black screen | Some sites block embedding; try a different URL |
+| High CPU / RAM | WebEngine runs a real browser — close other heavy apps |
+| Audio plays | Enable "Mute audio" in Settings and save |
