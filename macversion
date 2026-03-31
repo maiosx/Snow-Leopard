@@ -2044,6 +2044,7 @@ border:1px solid rgba(255,255,255,0.4); padding-bottom:13px;
     overflow-y: scroll;
     padding-right: 15px;
         margin-top: 382px;
+        line-height:normal;
 }
 
 .textsm2box {   
