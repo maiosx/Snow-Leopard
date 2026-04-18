@@ -14994,9 +14994,15 @@ Your browser does not support inline frames or is currently configured not to di
 </div>   
 
 
-        <div id="icon29" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL29}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL29}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://apps.apple.com/{/block:IfDockDefaultsOn}', 'newwindow29', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/1024px-App_Store_%28iOS%29.svg.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL29Image}{block:IfDockDefaultsOff}">️</a> 
+  
+
+       <div id="icon29" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL29}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL29}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://apps.apple.com/{/block:IfDockDefaultsOn}', 'newwindow29', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/7E9wadY.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL29Image}{block:IfDockDefaultsOff}">️</a> 
 </div>   
+
+        <div id="icon32" class="icon">
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL32}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL32}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://gamedays.lovable.app/{/block:IfDockDefaultsOn}', 'newwindow32', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://64.media.tumblr.com/be868845e62ed7b9860164b71e415fd8/adb7a31469f15e74-26/s1280x1920/29b07be1267acbe804f40c242429125ca54270e8.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL32Image}{block:IfDockDefaultsOff}">️</a> 
+</div> 
 
 
     <div id="icon30" class="icon">
@@ -15004,7 +15010,7 @@ Your browser does not support inline frames or is currently configured not to di
 </div>   
 
    <div id="icon31" class="icon">
-<a href="{block:IfDockDefaultsOff}{text:DOCKURL31}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL31}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://nodoom.app{/block:IfDockDefaultsOn}', 'newwindow31', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/UwRMRrd.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL31Image}{block:IfDockDefaultsOff}">️</a> 
+<a href="{block:IfDockDefaultsOff}{text:DOCKURL31}{/block:IfDockDefaultsOff}"  onclick="window.open('{block:IfDockDefaultsOff}{text:DOCKURL31}{/block:IfDockDefaultsOff}{block:IfDockDefaultsOn}https://nodoom.lovable.app{/block:IfDockDefaultsOn}', 'newwindow31', 'width=917,height=832'); return false;"><img alt="" src="{block:IfDockDefaultsOn}https://i.imgur.com/UwRMRrd.png{/block:IfDockDefaultsOn}{block:IfDockDefaultsOff}{image:DOCKURL31Image}{block:IfDockDefaultsOff}">️</a> 
 </div>  
 
 
